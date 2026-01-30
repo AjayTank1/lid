@@ -1,0 +1,7145 @@
+[
+  {
+    "order": 1,
+    "instruction": "In Germany, people are allowed to speak openly against the government because ...",
+    "options": [
+      {
+        "number": 1,
+        "text": "religious freedom applies here."
+      },
+      {
+        "number": 2,
+        "text": "people pay taxes."
+      },
+      {
+        "number": 3,
+        "text": "people have voting rights."
+      },
+      {
+        "number": 4,
+        "text": "freedom of opinion applies here.",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "order": 2,
+    "instruction": "In Germany, parents can decide until their child's 14th birthday whether it participates in school ...",
+    "options": [
+      {
+        "number": 1,
+        "text": "history class."
+      },
+      {
+        "number": 2,
+        "text": "religious education.",
+        "correct": true
+      },
+      {
+        "number": 3,
+        "text": "political education class."
+      },
+      {
+        "number": 4,
+        "text": "language class."
+      }
+    ]
+  },
+  {
+    "order": 3,
+    "instruction": "Germany is a constitutional state. What does this mean?",
+    "options": [
+      {
+        "number": 1,
+        "text": "All residents and the state must obey the laws.",
+        "correct": true
+      },
+      {
+        "number": 2,
+        "text": "The state does not have to obey the laws."
+      },
+      {
+        "number": 3,
+        "text": "Only Germans have to follow the laws."
+      },
+      {
+        "number": 4,
+        "text": "Courts make the laws."
+      }
+    ]
+  },
+  {
+    "order": 4,
+    "instruction": "Which right belongs to the fundamental rights in Germany?",
+    "options": [
+      {
+        "number": 1,
+        "text": "Weapon possession"
+      },
+      {
+        "number": 2,
+        "text": "Right of the fist"
+      },
+      {
+        "number": 3,
+        "text": "Freedom of opinion",
+        "correct": true
+      },
+      {
+        "number": 4,
+        "text": "Self-justice"
+      }
+    ]
+  },
+  {
+    "order": 5,
+    "instruction": "Elections in Germany are free. What does this mean?",
+    "options": [
+      {
+        "number": 1,
+        "text": "You are allowed to accept money if you vote for a certain candidate."
+      },
+      {
+        "number": 2,
+        "text": "Only people who have never been to prison are allowed to vote."
+      },
+      {
+        "number": 3,
+        "text": "The voter must not be influenced or forced to vote a certain way and must not suffer any disadvantages from voting.",
+        "correct": true
+      },
+      {
+        "number": 4,
+        "text": "All eligible voters must vote."
+      }
+    ]
+  },
+  {
+    "order": 6,
+    "instruction": "What is the name of the German constitution?",
+    "options": [
+      {
+        "number": 1,
+        "text": "People's Law"
+      },
+      {
+        "number": 2,
+        "text": "Federal Law"
+      },
+      {
+        "number": 3,
+        "text": "German Law"
+      },
+      {
+        "number": 4,
+        "text": "Basic Law",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "order": 7,
+    "instruction": "Which right belongs to the fundamental rights guaranteed by the German constitution? The right to ...",
+    "options": [
+      {
+        "number": 1,
+        "text": "freedom of belief and conscience.",
+        "correct": true
+      },
+      {
+        "number": 2,
+        "text": "entertainment."
+      },
+      {
+        "number": 3,
+        "text": "work."
+      },
+      {
+        "number": 4,
+        "text": "housing."
+      }
+    ]
+  },
+  {
+    "order": 8,
+    "instruction": "What is not in the German Basic Law?",
+    "options": [
+      {
+        "number": 1,
+        "text": "Human dignity is inviolable."
+      },
+      {
+        "number": 2,
+        "text": "Everyone should have the same amount of money.",
+        "correct": true
+      },
+      {
+        "number": 3,
+        "text": "Everyone is allowed to express their opinion."
+      },
+      {
+        "number": 4,
+        "text": "Everyone is equal before the law."
+      }
+    ]
+  },
+  {
+    "order": 9,
+    "instruction": "Which fundamental right applies in Germany only to foreigners? The fundamental right to ...",
+    "options": [
+      {
+        "number": 1,
+        "text": "protection of the family"
+      },
+      {
+        "number": 2,
+        "text": "human dignity"
+      },
+      {
+        "number": 3,
+        "text": "asylum",
+        "correct": true
+      },
+      {
+        "number": 4,
+        "text": "freedom of opinion"
+      }
+    ]
+  },
+  {
+    "order": 10,
+    "instruction": "What is compatible with the German Basic Law?",
+    "options": [
+      {
+        "number": 1,
+        "text": "corporal punishment"
+      },
+      {
+        "number": 2,
+        "text": "torture"
+      },
+      {
+        "number": 3,
+        "text": "death penalty"
+      },
+      {
+        "number": 4,
+        "text": "fines",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "order": 11,
+    "instruction": "What is the constitution of the Federal Republic of Germany called?",
+    "options": [
+      {
+        "number": 1,
+        "text": "Basic Law",
+        "correct": true
+      },
+      {
+        "number": 2,
+        "text": "Federal Constitution"
+      },
+      {
+        "number": 3,
+        "text": "Code of Laws"
+      },
+      {
+        "number": 4,
+        "text": "Constitutional Treaty"
+      }
+    ]
+  },
+  {
+    "order": 12,
+    "instruction": "A party in the German Bundestag wants to abolish freedom of the press. Is this possible?",
+    "options": [
+      {
+        "number": 1,
+        "text": "Yes, if more than half of the deputies in the Bundestag are in favor."
+      },
+      {
+        "number": 2,
+        "text": "Yes, but two-thirds of the deputies in the Bundestag must be in favor."
+      },
+      {
+        "number": 3,
+        "text": "No, because freedom of the press is a fundamental right. It cannot be abolished.",
+        "correct": true
+      },
+      {
+        "number": 4,
+        "text": "No, because only the Bundesrat can abolish freedom of the press."
+      }
+    ]
+  },
+  {
+    "order": 13,
+    "instruction": "In parliament, the term \"opposition\" refers to ...",
+    "options": [
+      {
+        "number": 1,
+        "text": "the ruling parties."
+      },
+      {
+        "number": 2,
+        "text": "the faction with the most deputies."
+      },
+      {
+        "number": 3,
+        "text": "all parties that achieved the 5% threshold in the last election."
+      },
+      {
+        "number": 4,
+        "text": "all deputies who do not belong to the ruling party/parties.",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "order": 14,
+    "instruction": "Freedom of opinion in Germany means, for example, that I",
+    "options": [
+      {
+        "number": 1,
+        "text": "I am allowed to insult passersby on the street"
+      },
+      {
+        "number": 2,
+        "text": "I can express my opinion on the internet",
+        "correct": true
+      },
+      {
+        "number": 3,
+        "text": "I am allowed to publicly wear Nazi, Hamas, or Islamic State symbols"
+      },
+      {
+        "number": 4,
+        "text": "I am allowed to express my opinion only if I do not contradict the government"
+      }
+    ]
+  },
+  {
+    "order": 15,
+    "instruction": "What does the German Basic Law prohibit?",
+    "options": [
+      {
+        "number": 1,
+        "text": "Military service"
+      },
+      {
+        "number": 2,
+        "text": "Forced labor",
+        "correct": true
+      },
+      {
+        "number": 3,
+        "text": "free choice of profession"
+      },
+      {
+        "number": 4,
+        "text": "work abroad"
+      }
+    ]
+  },
+  {
+    "order": 16,
+    "instruction": "When is freedom of opinion restricted in Germany?",
+    "options": [
+      {
+        "number": 1,
+        "text": "when publicly spreading false claims about individual people",
+        "correct": true
+      },
+      {
+        "number": 2,
+        "text": "when making statements of opinion about the federal government"
+      },
+      {
+        "number": 3,
+        "text": "in discussions about religions"
+      },
+      {
+        "number": 4,
+        "text": "when criticizing the state"
+      }
+    ]
+  },
+  {
+    "order": 17,
+    "instruction": "German laws prohibit ...",
+    "options": [
+      {
+        "number": 1,
+        "text": "freedom of opinion of residents."
+      },
+      {
+        "number": 2,
+        "text": "petitions by citizens."
+      },
+      {
+        "number": 3,
+        "text": "freedom of assembly of residents."
+      },
+      {
+        "number": 4,
+        "text": "unequal treatment of citizens by the state.",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "order": 18,
+    "instruction": "Which fundamental right is guaranteed in Article 1 of the Basic Law of the Federal Republic of Germany?",
+    "options": [
+      {
+        "number": 1,
+        "text": "the inviolability of human dignity",
+        "correct": true
+      },
+      {
+        "number": 2,
+        "text": "the right to life"
+      },
+      {
+        "number": 3,
+        "text": "religious freedom"
+      },
+      {
+        "number": 4,
+        "text": "freedom of opinion"
+      }
+    ]
+  },
+  {
+    "order": 19,
+    "instruction": "What is meant by the right of \"freedom of movement\" in Germany?",
+    "options": [
+      {
+        "number": 1,
+        "text": "You can choose your place of residence yourself.",
+        "correct": true
+      },
+      {
+        "number": 2,
+        "text": "You can change your profession."
+      },
+      {
+        "number": 3,
+        "text": "You can choose a different religion."
+      },
+      {
+        "number": 4,
+        "text": "You are only allowed to be lightly dressed in public."
+      }
+    ]
+  },
+  {
+    "order": 20,
+    "instruction": "A party in Germany aims to establish a dictatorship. It is then ...",
+    "options": [
+      {
+        "number": 1,
+        "text": "tolerant."
+      },
+      {
+        "number": 2,
+        "text": "rule-of-law oriented."
+      },
+      {
+        "number": 3,
+        "text": "law-abiding."
+      },
+      {
+        "number": 4,
+        "text": "unconstitutional.",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "order": 21,
+    "instruction": "Which is the coat of arms of the Federal Republic of Germany?",
+    "options": [
+      {
+        "number": 1,
+        "text": "1",
+        "correct": true
+      },
+      {
+        "number": 2,
+        "text": "2"
+      },
+      {
+        "number": 3,
+        "text": "3"
+      },
+      {
+        "number": 4,
+        "text": "4"
+      }
+    ],
+    "image": "assets/images/21.png"
+  },
+  {
+    "order": 22,
+    "instruction": "What form of government does Germany have?",
+    "options": [
+      {
+        "number": 1,
+        "text": "Monarchy"
+      },
+      {
+        "number": 2,
+        "text": "Dictatorship"
+      },
+      {
+        "number": 3,
+        "text": "Republic",
+        "correct": true
+      },
+      {
+        "number": 4,
+        "text": "Principality"
+      }
+    ]
+  },
+  {
+    "order": 23,
+    "instruction": "In Germany, most employed people are ...",
+    "options": [
+      {
+        "number": 1,
+        "text": "employed in small family businesses."
+      },
+      {
+        "number": 2,
+        "text": "working as volunteers for a federal state."
+      },
+      {
+        "number": 3,
+        "text": "self-employed with their own business."
+      },
+      {
+        "number": 4,
+        "text": "employed by a company or government agency.",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "order": 24,
+    "instruction": "How many federal states does the Federal Republic of Germany have?",
+    "options": [
+      {
+        "number": 1,
+        "text": "14"
+      },
+      {
+        "number": 2,
+        "text": "15"
+      },
+      {
+        "number": 3,
+        "text": "16",
+        "correct": true
+      },
+      {
+        "number": 4,
+        "text": "17"
+      }
+    ]
+  },
+  {
+    "order": 25,
+    "instruction": "What is <u>not</u> a federal state of the Federal Republic of Germany?",
+    "options": [
+      {
+        "number": 1,
+        "text": "Alsace-Lorraine",
+        "correct": true
+      },
+      {
+        "number": 2,
+        "text": "North Rhine-Westphalia"
+      },
+      {
+        "number": 3,
+        "text": "Mecklenburg-Vorpommern"
+      },
+      {
+        "number": 4,
+        "text": "Saxony-Anhalt"
+      }
+    ]
+  },
+  {
+    "order": 26,
+    "instruction": "Germany is ...",
+    "options": [
+      {
+        "number": 1,
+        "text": "a communist republic."
+      },
+      {
+        "number": 2,
+        "text": "a democratic and social federal state.",
+        "correct": true
+      },
+      {
+        "number": 3,
+        "text": "a capitalist and social monarchy."
+      },
+      {
+        "number": 4,
+        "text": "a social and socialist federal state."
+      }
+    ]
+  },
+  {
+    "order": 27,
+    "instruction": "Germany is ...",
+    "options": [
+      {
+        "number": 1,
+        "text": "a socialist state."
+      },
+      {
+        "number": 2,
+        "text": "a federal state.",
+        "correct": true
+      },
+      {
+        "number": 3,
+        "text": "a dictatorship."
+      },
+      {
+        "number": 4,
+        "text": "a monarchy."
+      }
+    ]
+  },
+  {
+    "order": 28,
+    "instruction": "Who elects the members of the Bundestag in Germany?",
+    "options": [
+      {
+        "number": 1,
+        "text": "the military"
+      },
+      {
+        "number": 2,
+        "text": "the economy"
+      },
+      {
+        "number": 3,
+        "text": "the eligible voting population",
+        "correct": true
+      },
+      {
+        "number": 4,
+        "text": "the administration"
+      }
+    ]
+  },
+  {
+    "order": 29,
+    "instruction": "Which animal is the heraldic animal of the Federal Republic of Germany?",
+    "options": [
+      {
+        "number": 1,
+        "text": "Lion"
+      },
+      {
+        "number": 2,
+        "text": "Eagle",
+        "correct": true
+      },
+      {
+        "number": 3,
+        "text": "Bear"
+      },
+      {
+        "number": 4,
+        "text": "Horse"
+      }
+    ]
+  },
+  {
+    "order": 30,
+    "instruction": "What is <u>not</u> a feature of our democracy?",
+    "options": [
+      {
+        "number": 1,
+        "text": "regular elections"
+      },
+      {
+        "number": 2,
+        "text": "press censorship",
+        "correct": true
+      },
+      {
+        "number": 3,
+        "text": "freedom of opinion"
+      },
+      {
+        "number": 4,
+        "text": "different parties"
+      }
+    ]
+  },
+  {
+    "order": 31,
+    "instruction": "The cooperation of parties to form a government in Germany is called ...",
+    "options": [
+      {
+        "number": 1,
+        "text": "unity."
+      },
+      {
+        "number": 2,
+        "text": "coalition.",
+        "correct": true
+      },
+      {
+        "number": 3,
+        "text": "ministry."
+      },
+      {
+        "number": 4,
+        "text": "faction."
+      }
+    ]
+  },
+  {
+    "order": 32,
+    "instruction": "What is not a state authority in Germany?",
+    "options": [
+      {
+        "number": 1,
+        "text": "legislation"
+      },
+      {
+        "number": 2,
+        "text": "government"
+      },
+      {
+        "number": 3,
+        "text": "press",
+        "correct": true
+      },
+      {
+        "number": 4,
+        "text": "judiciary"
+      }
+    ]
+  },
+  {
+    "order": 33,
+    "instruction": "Which statement is correct? In Germany ...",
+    "options": [
+      {
+        "number": 1,
+        "text": "state and religious communities are separate from each other.",
+        "correct": true
+      },
+      {
+        "number": 2,
+        "text": "the religious communities form the state."
+      },
+      {
+        "number": 3,
+        "text": "the state is dependent on religious communities."
+      },
+      {
+        "number": 4,
+        "text": "state and religious communities form a unit."
+      }
+    ]
+  },
+  {
+    "order": 34,
+    "instruction": "What is Germany not?",
+    "options": [
+      {
+        "number": 1,
+        "text": "a democracy"
+      },
+      {
+        "number": 2,
+        "text": "a constitutional state"
+      },
+      {
+        "number": 3,
+        "text": "a monarchy",
+        "correct": true
+      },
+      {
+        "number": 4,
+        "text": "a social state"
+      }
+    ]
+  },
+  {
+    "order": 35,
+    "instruction": "How does the German state finance social insurance?",
+    "options": [
+      {
+        "number": 1,
+        "text": "church taxes"
+      },
+      {
+        "number": 2,
+        "text": "social security contributions",
+        "correct": true
+      },
+      {
+        "number": 3,
+        "text": "donations"
+      },
+      {
+        "number": 4,
+        "text": "club membership fees"
+      }
+    ]
+  },
+  {
+    "order": 36,
+    "instruction": "Which measure provides social security in Germany?",
+    "options": [
+      {
+        "number": 1,
+        "text": "health insurance",
+        "correct": true
+      },
+      {
+        "number": 2,
+        "text": "car insurance"
+      },
+      {
+        "number": 3,
+        "text": "building insurance"
+      },
+      {
+        "number": 4,
+        "text": "liability insurance"
+      }
+    ]
+  },
+  {
+    "order": 37,
+    "instruction": "How are the heads of government of most federal states in Germany called?",
+    "options": [
+      {
+        "number": 1,
+        "text": "First Minister"
+      },
+      {
+        "number": 2,
+        "text": "Premier Minister"
+      },
+      {
+        "number": 3,
+        "text": "Senator"
+      },
+      {
+        "number": 4,
+        "text": "Minister President",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "order": 38,
+    "instruction": "The Federal Republic of Germany is a democratic and social ...",
+    "options": [
+      {
+        "number": 1,
+        "text": "federation of states."
+      },
+      {
+        "number": 2,
+        "text": "federal state.",
+        "correct": true
+      },
+      {
+        "number": 3,
+        "text": "confederation of states."
+      },
+      {
+        "number": 4,
+        "text": "centralized state."
+      }
+    ]
+  },
+  {
+    "order": 39,
+    "instruction": "What does every German federal state have?",
+    "options": [
+      {
+        "number": 1,
+        "text": "its own foreign minister"
+      },
+      {
+        "number": 2,
+        "text": "its own currency"
+      },
+      {
+        "number": 3,
+        "text": "its own army"
+      },
+      {
+        "number": 4,
+        "text": "its own government",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "order": 40,
+    "instruction": "With which words does the German national anthem begin?",
+    "options": [
+      {
+        "number": 1,
+        "text": "Peoples, hear the signals ..."
+      },
+      {
+        "number": 2,
+        "text": "Unity and justice and freedom ...",
+        "correct": true
+      },
+      {
+        "number": 3,
+        "text": "Joy, beautiful divine spark ..."
+      },
+      {
+        "number": 4,
+        "text": "Germany united fatherland ..."
+      }
+    ]
+  },
+  {
+    "order": 41,
+    "instruction": "Why are there more than one party in a democracy?",
+    "options": [
+      {
+        "number": 1,
+        "text": "because different opinions of citizens are represented",
+        "correct": true
+      },
+      {
+        "number": 2,
+        "text": "to limit bribery in politics"
+      },
+      {
+        "number": 3,
+        "text": "to prevent political demonstrations"
+      },
+      {
+        "number": 4,
+        "text": "to encourage economic competition"
+      }
+    ]
+  },
+  {
+    "order": 42,
+    "instruction": "Who passes a new law in Germany?",
+    "options": [
+      {
+        "number": 1,
+        "text": "the government"
+      },
+      {
+        "number": 2,
+        "text": "parliament",
+        "correct": true
+      },
+      {
+        "number": 3,
+        "text": "the courts"
+      },
+      {
+        "number": 4,
+        "text": "the police"
+      }
+    ]
+  },
+  {
+    "order": 43,
+    "instruction": "When can a party be banned in Germany?",
+    "options": [
+      {
+        "number": 1,
+        "text": "if its election campaign is too expensive"
+      },
+      {
+        "number": 2,
+        "text": "if it fights against the constitution",
+        "correct": true
+      },
+      {
+        "number": 3,
+        "text": "if it criticizes the head of state"
+      },
+      {
+        "number": 4,
+        "text": "if its program proposes a new direction"
+      }
+    ]
+  },
+  {
+    "order": 44,
+    "instruction": "Who can you not elect directly as a citizen in Germany?",
+    "options": [
+      {
+        "number": 1,
+        "text": "members of the EU Parliament"
+      },
+      {
+        "number": 2,
+        "text": "the Federal President",
+        "correct": true
+      },
+      {
+        "number": 3,
+        "text": "state parliament representatives"
+      },
+      {
+        "number": 4,
+        "text": "Bundestag members"
+      }
+    ]
+  },
+  {
+    "order": 45,
+    "instruction": "What type of insurance is nursing care insurance?",
+    "options": [
+      {
+        "number": 1,
+        "text": "social insurance",
+        "correct": true
+      },
+      {
+        "number": 2,
+        "text": "accident insurance"
+      },
+      {
+        "number": 3,
+        "text": "household contents insurance"
+      },
+      {
+        "number": 4,
+        "text": "liability and fire insurance"
+      }
+    ]
+  },
+  {
+    "order": 46,
+    "instruction": "The German state has many tasks. Which task belongs to it?",
+    "options": [
+      {
+        "number": 1,
+        "text": "It builds roads and schools.",
+        "correct": true
+      },
+      {
+        "number": 2,
+        "text": "It sells food and clothing."
+      },
+      {
+        "number": 3,
+        "text": "It provides all residents with free newspapers."
+      },
+      {
+        "number": 4,
+        "text": "It produces cars and buses."
+      }
+    ]
+  },
+  {
+    "order": 47,
+    "instruction": "The German state has many tasks. Which task does not belong to it?",
+    "options": [
+      {
+        "number": 1,
+        "text": "It pays for holiday trips for all citizens.",
+        "correct": true
+      },
+      {
+        "number": 2,
+        "text": "It pays child benefits."
+      },
+      {
+        "number": 3,
+        "text": "It supports museums."
+      },
+      {
+        "number": 4,
+        "text": "It sponsors athletes."
+      }
+    ]
+  },
+  {
+    "order": 48,
+    "instruction": "Which body is not a constitutional body of Germany?",
+    "options": [
+      {
+        "number": 1,
+        "text": "the Bundesrat"
+      },
+      {
+        "number": 2,
+        "text": "the Federal President"
+      },
+      {
+        "number": 3,
+        "text": "the citizen assembly",
+        "correct": true
+      },
+      {
+        "number": 4,
+        "text": "the government"
+      }
+    ]
+  },
+  {
+    "order": 49,
+    "instruction": "Who determines school policy in Germany?",
+    "options": [
+      {
+        "number": 1,
+        "text": "the teachers"
+      },
+      {
+        "number": 2,
+        "text": "the federal states",
+        "correct": true
+      },
+      {
+        "number": 3,
+        "text": "the ministry of family affairs"
+      },
+      {
+        "number": 4,
+        "text": "the universities"
+      }
+    ]
+  },
+  {
+    "order": 50,
+    "instruction": "The economic system in Germany is called ...",
+    "options": [
+      {
+        "number": 1,
+        "text": "free central economy."
+      },
+      {
+        "number": 2,
+        "text": "social market economy.",
+        "correct": true
+      },
+      {
+        "number": 3,
+        "text": "controlled central economy."
+      },
+      {
+        "number": 4,
+        "text": "planned economy."
+      }
+    ]
+  },
+  {
+    "order": 51,
+    "instruction": "It is not part of a democratic constitutional state that ...",
+    "options": [
+      {
+        "number": 1,
+        "text": "people can express themselves critically about the government."
+      },
+      {
+        "number": 2,
+        "text": "citizens are allowed to peacefully demonstrate."
+      },
+      {
+        "number": 3,
+        "text": "people are arrested by a private police force without reason.",
+        "correct": true
+      },
+      {
+        "number": 4,
+        "text": "someone commits a crime and is therefore arrested."
+      }
+    ]
+  },
+  {
+    "order": 52,
+    "instruction": "What does \"popular sovereignty\" mean? All state power comes from ...",
+    "options": [
+      {
+        "number": 1,
+        "text": "the people.",
+        "correct": true
+      },
+      {
+        "number": 2,
+        "text": "the Bundestag."
+      },
+      {
+        "number": 3,
+        "text": "the Prussian king."
+      },
+      {
+        "number": 4,
+        "text": "the Federal Constitutional Court."
+      }
+    ]
+  },
+  {
+    "order": 53,
+    "instruction": "What does \"constitutional state\" mean in Germany?",
+    "options": [
+      {
+        "number": 1,
+        "text": "The state is right."
+      },
+      {
+        "number": 2,
+        "text": "There are only right-wing parties."
+      },
+      {
+        "number": 3,
+        "text": "Citizens decide about laws."
+      },
+      {
+        "number": 4,
+        "text": "The state must obey the laws.",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "order": 54,
+    "instruction": "What is not a state authority in Germany?",
+    "options": [
+      {
+        "number": 1,
+        "text": "legislative"
+      },
+      {
+        "number": 2,
+        "text": "judicial"
+      },
+      {
+        "number": 3,
+        "text": "executive"
+      },
+      {
+        "number": 4,
+        "text": "directive",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "order": 55,
+    "instruction": "What does this picture show?",
+    "options": [
+      {
+        "number": 1,
+        "text": "the seat of the Bundestag in Berlin",
+        "correct": true
+      },
+      {
+        "number": 2,
+        "text": "the Federal Constitutional Court in Karlsruhe"
+      },
+      {
+        "number": 3,
+        "text": "the Bundesrat building in Berlin"
+      },
+      {
+        "number": 4,
+        "text": "the Federal Chancellery in Berlin"
+      }
+    ],
+    "image": "assets/images/55.png"
+  },
+  {
+    "order": 56,
+    "instruction": "Which office belongs to the municipal administration in Germany?",
+    "options": [
+      {
+        "number": 1,
+        "text": "parish office"
+      },
+      {
+        "number": 2,
+        "text": "public order office",
+        "correct": true
+      },
+      {
+        "number": 3,
+        "text": "tax office"
+      },
+      {
+        "number": 4,
+        "text": "foreign office"
+      }
+    ]
+  },
+  {
+    "order": 57,
+    "instruction": "Who is usually elected as president of the German Bundestag?",
+    "options": [
+      {
+        "number": 1,
+        "text": "the oldest member in parliament"
+      },
+      {
+        "number": 2,
+        "text": "the minister president of the largest federal state"
+      },
+      {
+        "number": 3,
+        "text": "a former chancellor"
+      },
+      {
+        "number": 4,
+        "text": "a member of the strongest parliamentary group",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "order": 58,
+    "instruction": "Who appoints the ministers of the federal government in Germany?",
+    "options": [
+      {
+        "number": 1,
+        "text": "the president of the Federal Constitutional Court"
+      },
+      {
+        "number": 2,
+        "text": "the Federal President",
+        "correct": true
+      },
+      {
+        "number": 3,
+        "text": "the president of the Bundesrat"
+      },
+      {
+        "number": 4,
+        "text": "the president of the Bundestag"
+      }
+    ]
+  },
+  {
+    "order": 59,
+    "instruction": "How many years ago were there first Jewish communities in the territory of today's Germany?",
+    "options": [
+      {
+        "number": 1,
+        "text": "about 300 years ago"
+      },
+      {
+        "number": 2,
+        "text": "about 700 years ago"
+      },
+      {
+        "number": 3,
+        "text": "about 1150 years ago"
+      },
+      {
+        "number": 4,
+        "text": "about 1700 years ago",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "order": 60,
+    "instruction": "In Germany, the Bundestag and Bundesrat belong to the ...",
+    "options": [
+      {
+        "number": 1,
+        "text": "executive."
+      },
+      {
+        "number": 2,
+        "text": "legislative.",
+        "correct": true
+      },
+      {
+        "number": 3,
+        "text": "directive."
+      },
+      {
+        "number": 4,
+        "text": "judicial."
+      }
+    ]
+  },
+  {
+    "order": 61,
+    "instruction": "What does \"popular sovereignty\" mean?",
+    "options": [
+      {
+        "number": 1,
+        "text": "The king/queen rules over the people."
+      },
+      {
+        "number": 2,
+        "text": "The Federal Constitutional Court stands above the constitution."
+      },
+      {
+        "number": 3,
+        "text": "Interest groups exercise sovereignty together with the government."
+      },
+      {
+        "number": 4,
+        "text": "State power comes from the people.",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "order": 62,
+    "instruction": "When the parliament of a German federal state is elected, that is called ...",
+    "options": [
+      {
+        "number": 1,
+        "text": "municipal election."
+      },
+      {
+        "number": 2,
+        "text": "state parliament election.",
+        "correct": true
+      },
+      {
+        "number": 3,
+        "text": "European election."
+      },
+      {
+        "number": 4,
+        "text": "federal election."
+      }
+    ]
+  },
+  {
+    "order": 63,
+    "instruction": "What does not belong to the executive in Germany?",
+    "options": [
+      {
+        "number": 1,
+        "text": "the police"
+      },
+      {
+        "number": 2,
+        "text": "the courts",
+        "correct": true
+      },
+      {
+        "number": 3,
+        "text": "the tax office"
+      },
+      {
+        "number": 4,
+        "text": "the ministries"
+      }
+    ]
+  },
+  {
+    "order": 64,
+    "instruction": "The Federal Republic of Germany today is divided into ...",
+    "options": [
+      {
+        "number": 1,
+        "text": "four occupation zones."
+      },
+      {
+        "number": 2,
+        "text": "an eastern state and a western state."
+      },
+      {
+        "number": 3,
+        "text": "16 cantons."
+      },
+      {
+        "number": 4,
+        "text": "federal government, states, and municipalities.",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "order": 65,
+    "instruction": "It is not one of the tasks of the German Bundestag to ...",
+    "options": [
+      {
+        "number": 1,
+        "text": "draft laws."
+      },
+      {
+        "number": 2,
+        "text": "control the federal government."
+      },
+      {
+        "number": 3,
+        "text": "elect the federal chancellor."
+      },
+      {
+        "number": 4,
+        "text": "form the federal cabinet.",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "order": 66,
+    "instruction": "Which cities have the largest Jewish communities in Germany?",
+    "options": [
+      {
+        "number": 1,
+        "text": "Berlin and Munich",
+        "correct": true
+      },
+      {
+        "number": 2,
+        "text": "Hamburg and Essen"
+      },
+      {
+        "number": 3,
+        "text": "Nuremberg and Stuttgart"
+      },
+      {
+        "number": 4,
+        "text": "Worms and Speyer"
+      }
+    ]
+  },
+  {
+    "order": 67,
+    "instruction": "What is mainly a task of the federal states in Germany?",
+    "options": [
+      {
+        "number": 1,
+        "text": "defense policy"
+      },
+      {
+        "number": 2,
+        "text": "foreign policy"
+      },
+      {
+        "number": 3,
+        "text": "economic policy"
+      },
+      {
+        "number": 4,
+        "text": "school policy",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "order": 68,
+    "instruction": "Why does the state in Germany control the school system?",
+    "options": [
+      {
+        "number": 1,
+        "text": "because there are only state schools in Germany"
+      },
+      {
+        "number": 2,
+        "text": "because all students must have a school diploma"
+      },
+      {
+        "number": 3,
+        "text": "because there are different schools in the federal states"
+      },
+      {
+        "number": 4,
+        "text": "because it is its task according to the Basic Law",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "order": 69,
+    "instruction": "The Federal Republic of Germany has a three-level administrative structure. What is the lowest political level called?",
+    "options": [
+      {
+        "number": 1,
+        "text": "city councillors"
+      },
+      {
+        "number": 2,
+        "text": "district administrators"
+      },
+      {
+        "number": 3,
+        "text": "municipalities",
+        "correct": true
+      },
+      {
+        "number": 4,
+        "text": "district offices"
+      }
+    ]
+  },
+  {
+    "order": 70,
+    "instruction": "The German Federal President Gustav Heinemann gives Helmut Schmidt the appointment certificate as German Chancellor in 1974. What is one of the tasks of the German Federal President?",
+    "options": [
+      {
+        "number": 1,
+        "text": "He/She conducts the business of government."
+      },
+      {
+        "number": 2,
+        "text": "He/She controls the government party."
+      },
+      {
+        "number": 3,
+        "text": "He/She selects the ministers."
+      },
+      {
+        "number": 4,
+        "text": "He/She nominates the chancellor for election.",
+        "correct": true
+      }
+    ],
+    "image": "assets/images/70.png"
+  },
+  {
+    "order": 71,
+    "instruction": "Where does the German Chancellor spend most of their time? Most often he/she is ...",
+    "options": [
+      {
+        "number": 1,
+        "text": "in Bonn, because the Federal Chancellery and Bundestag are located there."
+      },
+      {
+        "number": 2,
+        "text": "at Meseberg Palace, the guest house of the federal government, to receive state guests."
+      },
+      {
+        "number": 3,
+        "text": "at Bellevue Palace, the official residence of the Federal President, to receive state guests."
+      },
+      {
+        "number": 4,
+        "text": "in Berlin, because the Federal Chancellery and Bundestag are located there.",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "order": 72,
+    "instruction": "What is the name of the current Chancellor of Germany?",
+    "options": [
+      {
+        "number": 1,
+        "text": "Gerhard Schröder"
+      },
+      {
+        "number": 2,
+        "text": "Angela Merkel"
+      },
+      {
+        "number": 3,
+        "text": "Ursula von der Leyen"
+      },
+      {
+        "number": 4,
+        "text": "Friedrich Merz",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "order": 73,
+    "instruction": "The two largest factions in the German Bundestag are currently ...",
+    "options": [
+      {
+        "number": 1,
+        "text": "CDU/CSU and AfD.",
+        "correct": true
+      },
+      {
+        "number": 2,
+        "text": "The Left and Alliance 90/The Greens."
+      },
+      {
+        "number": 3,
+        "text": "Alliance 90/The Greens and SPD."
+      },
+      {
+        "number": 4,
+        "text": "The Left and CDU/CSU."
+      }
+    ]
+  },
+  {
+    "order": 74,
+    "instruction": "What is the name of the parliament for all of Germany?",
+    "options": [
+      {
+        "number": 1,
+        "text": "Federal Assembly"
+      },
+      {
+        "number": 2,
+        "text": "People's Chamber"
+      },
+      {
+        "number": 3,
+        "text": "Bundestag",
+        "correct": true
+      },
+      {
+        "number": 4,
+        "text": "Federal Court of Justice"
+      }
+    ]
+  },
+  {
+    "order": 75,
+    "instruction": "What is the name of Germany's current head of state?",
+    "options": [
+      {
+        "number": 1,
+        "text": "Frank-Walter Steinmeier",
+        "correct": true
+      },
+      {
+        "number": 2,
+        "text": "Bärbel Bas"
+      },
+      {
+        "number": 3,
+        "text": "Bodo Ramelow"
+      },
+      {
+        "number": 4,
+        "text": "Joachim Gauck"
+      }
+    ]
+  },
+  {
+    "order": 76,
+    "instruction": "What does the abbreviation CDU stand for in Germany?",
+    "options": [
+      {
+        "number": 1,
+        "text": "Christian German Union"
+      },
+      {
+        "number": 2,
+        "text": "Club of German Entrepreneurs"
+      },
+      {
+        "number": 3,
+        "text": "Christian German Environmental Protection"
+      },
+      {
+        "number": 4,
+        "text": "Christian Democratic Union",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "order": 77,
+    "instruction": "What is the Bundeswehr?",
+    "options": [
+      {
+        "number": 1,
+        "text": "the German police"
+      },
+      {
+        "number": 2,
+        "text": "a German port"
+      },
+      {
+        "number": 3,
+        "text": "a German citizens' initiative"
+      },
+      {
+        "number": 4,
+        "text": "the German army",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "order": 78,
+    "instruction": "What does the abbreviation SPD stand for?",
+    "options": [
+      {
+        "number": 1,
+        "text": "Socialist Party of Germany"
+      },
+      {
+        "number": 2,
+        "text": "Social Policy Party of Germany"
+      },
+      {
+        "number": 3,
+        "text": "Social Democratic Party of Germany",
+        "correct": true
+      },
+      {
+        "number": 4,
+        "text": "Social Justice Party of Germany"
+      }
+    ]
+  },
+  {
+    "order": 79,
+    "instruction": "What does the abbreviation FDP stand for in Germany?",
+    "options": [
+      {
+        "number": 1,
+        "text": "Peaceful Demonstrative Party"
+      },
+      {
+        "number": 2,
+        "text": "Free Germany Party"
+      },
+      {
+        "number": 3,
+        "text": "Leading Democratic Party"
+      },
+      {
+        "number": 4,
+        "text": "Free Democratic Party",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "order": 80,
+    "instruction": "Which court in Germany is responsible for interpreting the Basic Law?",
+    "options": [
+      {
+        "number": 1,
+        "text": "Higher Regional Court"
+      },
+      {
+        "number": 2,
+        "text": "District Court"
+      },
+      {
+        "number": 3,
+        "text": "Federal Constitutional Court",
+        "correct": true
+      },
+      {
+        "number": 4,
+        "text": "Administrative Court"
+      }
+    ]
+  },
+  {
+    "order": 81,
+    "instruction": "Who elects the Chancellor in Germany?",
+    "options": [
+      {
+        "number": 1,
+        "text": "the Bundesrat"
+      },
+      {
+        "number": 2,
+        "text": "the Federal Assembly"
+      },
+      {
+        "number": 3,
+        "text": "the people"
+      },
+      {
+        "number": 4,
+        "text": "the Bundestag",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "order": 82,
+    "instruction": "Who heads the German federal cabinet?",
+    "options": [
+      {
+        "number": 1,
+        "text": "the Bundestag President"
+      },
+      {
+        "number": 2,
+        "text": "the Federal President"
+      },
+      {
+        "number": 3,
+        "text": "the Bundesrat President"
+      },
+      {
+        "number": 4,
+        "text": "the Chancellor",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "order": 83,
+    "instruction": "Who elects the German Chancellor?",
+    "options": [
+      {
+        "number": 1,
+        "text": "the people"
+      },
+      {
+        "number": 2,
+        "text": "the Federal Assembly"
+      },
+      {
+        "number": 3,
+        "text": "the Bundestag",
+        "correct": true
+      },
+      {
+        "number": 4,
+        "text": "the federal government"
+      }
+    ]
+  },
+  {
+    "order": 84,
+    "instruction": "What is the main task of the German Federal President? He/She ...",
+    "options": [
+      {
+        "number": 1,
+        "text": "governs the country."
+      },
+      {
+        "number": 2,
+        "text": "drafts laws."
+      },
+      {
+        "number": 3,
+        "text": "represents the country.",
+        "correct": true
+      },
+      {
+        "number": 4,
+        "text": "oversees compliance with laws."
+      }
+    ]
+  },
+  {
+    "order": 85,
+    "instruction": "Who forms the German Bundesrat?",
+    "options": [
+      {
+        "number": 1,
+        "text": "the members of the Bundestag"
+      },
+      {
+        "number": 2,
+        "text": "the ministers of the federal government"
+      },
+      {
+        "number": 3,
+        "text": "the government representatives of the federal states",
+        "correct": true
+      },
+      {
+        "number": 4,
+        "text": "the party members"
+      }
+    ]
+  },
+  {
+    "order": 86,
+    "instruction": "Who elects the Federal President in Germany?",
+    "options": [
+      {
+        "number": 1,
+        "text": "the Federal Assembly",
+        "correct": true
+      },
+      {
+        "number": 2,
+        "text": "the Bundesrat"
+      },
+      {
+        "number": 3,
+        "text": "the federal parliament"
+      },
+      {
+        "number": 4,
+        "text": "the Federal Constitutional Court"
+      }
+    ]
+  },
+  {
+    "order": 87,
+    "instruction": "Who is the head of state of the Federal Republic of Germany?",
+    "options": [
+      {
+        "number": 1,
+        "text": "the Chancellor"
+      },
+      {
+        "number": 2,
+        "text": "the Federal President",
+        "correct": true
+      },
+      {
+        "number": 3,
+        "text": "the Bundesrat President"
+      },
+      {
+        "number": 4,
+        "text": "the Bundestag President"
+      }
+    ]
+  },
+  {
+    "order": 88,
+    "instruction": "The parliamentary opposition in the German Bundestag ...",
+    "options": [
+      {
+        "number": 1,
+        "text": "controls the government.",
+        "correct": true
+      },
+      {
+        "number": 2,
+        "text": "decides who becomes a federal minister."
+      },
+      {
+        "number": 3,
+        "text": "determines who sits in the Bundesrat."
+      },
+      {
+        "number": 4,
+        "text": "nominates the heads of government of the states."
+      }
+    ]
+  },
+  {
+    "order": 89,
+    "instruction": "What is called in Germany the association of members of one party in parliament?",
+    "options": [
+      {
+        "number": 1,
+        "text": "association"
+      },
+      {
+        "number": 2,
+        "text": "council of elders"
+      },
+      {
+        "number": 3,
+        "text": "faction",
+        "correct": true
+      },
+      {
+        "number": 4,
+        "text": "opposition"
+      }
+    ]
+  },
+  {
+    "order": 90,
+    "instruction": "The German federal states participate in federal legislation through ...",
+    "options": [
+      {
+        "number": 1,
+        "text": "the Bundesrat.",
+        "correct": true
+      },
+      {
+        "number": 2,
+        "text": "the Federal Assembly."
+      },
+      {
+        "number": 3,
+        "text": "the Bundestag."
+      },
+      {
+        "number": 4,
+        "text": "the federal government."
+      }
+    ]
+  },
+  {
+    "order": 91,
+    "instruction": "In Germany, a change of government in a federal state can have effects on federal politics. Governing becomes ...",
+    "options": [
+      {
+        "number": 1,
+        "text": "more difficult if the majority in the Bundestag changes."
+      },
+      {
+        "number": 2,
+        "text": "easier if new parties come into the Bundesrat."
+      },
+      {
+        "number": 3,
+        "text": "more difficult if the majority in the Bundesrat changes.",
+        "correct": true
+      },
+      {
+        "number": 4,
+        "text": "easier if it is a wealthy federal state."
+      }
+    ]
+  },
+  {
+    "order": 92,
+    "instruction": "What does the abbreviation CSU stand for in Germany?",
+    "options": [
+      {
+        "number": 1,
+        "text": "Christian Secure Union"
+      },
+      {
+        "number": 2,
+        "text": "Christian South German Union"
+      },
+      {
+        "number": 3,
+        "text": "Christian Social Entrepreneurship Association"
+      },
+      {
+        "number": 4,
+        "text": "Christian Social Union",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "order": 93,
+    "instruction": "The more \"second votes\" a party receives in a federal election, the ...",
+    "options": [
+      {
+        "number": 1,
+        "text": "fewer first votes it can have."
+      },
+      {
+        "number": 2,
+        "text": "more direct candidates of the party enter parliament."
+      },
+      {
+        "number": 3,
+        "text": "greater is the risk of having to form a coalition."
+      },
+      {
+        "number": 4,
+        "text": "more seats the party receives in parliament.",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "order": 94,
+    "instruction": "From what age can you participate in the election to the German Bundestag?",
+    "options": [
+      {
+        "number": 1,
+        "text": "16"
+      },
+      {
+        "number": 2,
+        "text": "18",
+        "correct": true
+      },
+      {
+        "number": 3,
+        "text": "21"
+      },
+      {
+        "number": 4,
+        "text": "23"
+      }
+    ]
+  },
+  {
+    "order": 95,
+    "instruction": "What applies to most children in Germany?",
+    "options": [
+      {
+        "number": 1,
+        "text": "voting obligation"
+      },
+      {
+        "number": 2,
+        "text": "compulsory education",
+        "correct": true
+      },
+      {
+        "number": 3,
+        "text": "confidentiality obligation"
+      },
+      {
+        "number": 4,
+        "text": "religious obligation"
+      }
+    ]
+  },
+  {
+    "order": 96,
+    "instruction": "How can someone who denies the Holocaust be punished?",
+    "options": [
+      {
+        "number": 1,
+        "text": "reduction of social benefits"
+      },
+      {
+        "number": 2,
+        "text": "up to 100 hours of social work"
+      },
+      {
+        "number": 3,
+        "text": "not at all, Holocaust denial is allowed"
+      },
+      {
+        "number": 4,
+        "text": "with imprisonment up to five years or a fine",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "order": 97,
+    "instruction": "What do you automatically pay for in Germany when you have a permanent job?",
+    "options": [
+      {
+        "number": 1,
+        "text": "social insurance",
+        "correct": true
+      },
+      {
+        "number": 2,
+        "text": "social welfare"
+      },
+      {
+        "number": 3,
+        "text": "child benefit"
+      },
+      {
+        "number": 4,
+        "text": "housing allowance"
+      }
+    ]
+  },
+  {
+    "order": 98,
+    "instruction": "When members of the German Bundestag switch factions, ...",
+    "options": [
+      {
+        "number": 1,
+        "text": "they are no longer allowed to attend parliament sessions."
+      },
+      {
+        "number": 2,
+        "text": "the government can lose its majority.",
+        "correct": true
+      },
+      {
+        "number": 3,
+        "text": "the Federal President must give their prior consent."
+      },
+      {
+        "number": 4,
+        "text": "the voters of these members can vote again."
+      }
+    ]
+  },
+  {
+    "order": 99,
+    "instruction": "Who pays for social insurance in Germany?",
+    "options": [
+      {
+        "number": 1,
+        "text": "employers and employees",
+        "correct": true
+      },
+      {
+        "number": 2,
+        "text": "only employees"
+      },
+      {
+        "number": 3,
+        "text": "all citizens"
+      },
+      {
+        "number": 4,
+        "text": "only employers"
+      }
+    ]
+  },
+  {
+    "order": 100,
+    "instruction": "What does <u>not</u> belong to statutory social insurance?",
+    "options": [
+      {
+        "number": 1,
+        "text": "life insurance",
+        "correct": true
+      },
+      {
+        "number": 2,
+        "text": "statutory pension insurance"
+      },
+      {
+        "number": 3,
+        "text": "unemployment insurance"
+      },
+      {
+        "number": 4,
+        "text": "nursing care insurance"
+      }
+    ]
+  },
+  {
+    "order": 101,
+    "instruction": "Unions are interest groups of ...",
+    "options": [
+      {
+        "number": 1,
+        "text": "young people."
+      },
+      {
+        "number": 2,
+        "text": "employees.",
+        "correct": true
+      },
+      {
+        "number": 3,
+        "text": "retirees."
+      },
+      {
+        "number": 4,
+        "text": "employers."
+      }
+    ]
+  },
+  {
+    "order": 102,
+    "instruction": "How can you be honored in the Federal Republic of Germany when you have made a special achievement in political, economic, cultural, intellectual, or social matters? With the ...",
+    "options": [
+      {
+        "number": 1,
+        "text": "Federal Order of Merit",
+        "correct": true
+      },
+      {
+        "number": 2,
+        "text": "Federal Eagle"
+      },
+      {
+        "number": 3,
+        "text": "Patriotic Order of Merit"
+      },
+      {
+        "number": 4,
+        "text": "Honorary title \"Hero of the German Democratic Republic\""
+      }
+    ]
+  },
+  {
+    "order": 103,
+    "instruction": "What is referred to in Germany as an \"traffic light coalition\"? The cooperation ...",
+    "options": [
+      {
+        "number": 1,
+        "text": "of the Bundestag factions of CDU and CSU"
+      },
+      {
+        "number": 2,
+        "text": "of SPD, FDP and Alliance 90/The Greens in a government",
+        "correct": true
+      },
+      {
+        "number": 3,
+        "text": "of CSU, The LEFT and Alliance 90/The Greens in a government"
+      },
+      {
+        "number": 4,
+        "text": "of the Bundestag factions of CDU and SPD"
+      }
+    ]
+  },
+  {
+    "order": 104,
+    "instruction": "A woman in Germany loses her job. What cannot be the reason for this dismissal?",
+    "options": [
+      {
+        "number": 1,
+        "text": "The woman is sick for a long time and unable to work."
+      },
+      {
+        "number": 2,
+        "text": "The woman often came late to work."
+      },
+      {
+        "number": 3,
+        "text": "The woman did private things during work time."
+      },
+      {
+        "number": 4,
+        "text": "The woman is getting a child and her boss knows this.",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "order": 105,
+    "instruction": "What is a task of election helpers in Germany?",
+    "options": [
+      {
+        "number": 1,
+        "text": "They help elderly people voting in the voting booth."
+      },
+      {
+        "number": 2,
+        "text": "They write election notifications before the election."
+      },
+      {
+        "number": 3,
+        "text": "They pass interim results to the media."
+      },
+      {
+        "number": 4,
+        "text": "They count the votes after the end of the election.",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "order": 106,
+    "instruction": "In Germany, voluntary election helpers assist in elections. What is a task of election helpers?",
+    "options": [
+      {
+        "number": 1,
+        "text": "They help children and elderly people with voting."
+      },
+      {
+        "number": 2,
+        "text": "They write cards and letters with the polling station address."
+      },
+      {
+        "number": 3,
+        "text": "They pass interim results to journalists."
+      },
+      {
+        "number": 4,
+        "text": "They count the votes after the end of the election.",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "order": 107,
+    "instruction": "For how many years is the Bundestag elected in Germany?",
+    "options": [
+      {
+        "number": 1,
+        "text": "2 years"
+      },
+      {
+        "number": 2,
+        "text": "4 years",
+        "correct": true
+      },
+      {
+        "number": 3,
+        "text": "6 years"
+      },
+      {
+        "number": 4,
+        "text": "8 years"
+      }
+    ]
+  },
+  {
+    "order": 108,
+    "instruction": "In a federal election in Germany, anyone can vote who ...",
+    "options": [
+      {
+        "number": 1,
+        "text": "lives in the Federal Republic of Germany and wants to vote."
+      },
+      {
+        "number": 2,
+        "text": "is a citizen of the Federal Republic of Germany and is at least 18 years old.",
+        "correct": true
+      },
+      {
+        "number": 3,
+        "text": "has been living in the Federal Republic of Germany for at least 3 years."
+      },
+      {
+        "number": 4,
+        "text": "is a citizen of the Federal Republic of Germany and is at least 21 years old."
+      }
+    ]
+  },
+  {
+    "order": 109,
+    "instruction": "How often are there normally federal elections in Germany?",
+    "options": [
+      {
+        "number": 1,
+        "text": "every three years"
+      },
+      {
+        "number": 2,
+        "text": "every four years",
+        "correct": true
+      },
+      {
+        "number": 3,
+        "text": "every five years"
+      },
+      {
+        "number": 4,
+        "text": "every six years"
+      }
+    ]
+  },
+  {
+    "order": 110,
+    "instruction": "For how many years is the Bundestag elected in Germany?",
+    "options": [
+      {
+        "number": 1,
+        "text": "2 years"
+      },
+      {
+        "number": 2,
+        "text": "3 years"
+      },
+      {
+        "number": 3,
+        "text": "4 years",
+        "correct": true
+      },
+      {
+        "number": 4,
+        "text": "5 years"
+      }
+    ]
+  },
+  {
+    "order": 111,
+    "instruction": "Which action regarding the State of Israel is prohibited in Germany?",
+    "options": [
+      {
+        "number": 1,
+        "text": "publicly criticize Israel's politics"
+      },
+      {
+        "number": 2,
+        "text": "hanging an Israeli flag on private property"
+      },
+      {
+        "number": 3,
+        "text": "a discussion about Israel's politics"
+      },
+      {
+        "number": 4,
+        "text": "the public call for the destruction of Israel",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "order": 112,
+    "instruction": "Elections in Germany are...",
+    "options": [
+      {
+        "number": 1,
+        "text": "special."
+      },
+      {
+        "number": 2,
+        "text": "secret.",
+        "correct": true
+      },
+      {
+        "number": 3,
+        "text": "profession-related."
+      },
+      {
+        "number": 4,
+        "text": "gender-dependent."
+      }
+    ]
+  },
+  {
+    "order": 113,
+    "instruction": "In elections in Germany, the party that wins is the one that...",
+    "options": [
+      {
+        "number": 1,
+        "text": "gets the most votes.",
+        "correct": true
+      },
+      {
+        "number": 2,
+        "text": "has been elected by the majority of men."
+      },
+      {
+        "number": 3,
+        "text": "has received the most votes from workers."
+      },
+      {
+        "number": 4,
+        "text": "has received the most first votes for its chancellor candidate."
+      }
+    ]
+  },
+  {
+    "order": 114,
+    "instruction": "Participating in democratic elections in Germany is...",
+    "options": [
+      {
+        "number": 1,
+        "text": "a duty."
+      },
+      {
+        "number": 2,
+        "text": "a right.",
+        "correct": true
+      },
+      {
+        "number": 3,
+        "text": "a compulsion."
+      },
+      {
+        "number": 4,
+        "text": "a burden."
+      }
+    ]
+  },
+  {
+    "order": 115,
+    "instruction": "What does \"active voting rights\" mean in Germany?",
+    "options": [
+      {
+        "number": 1,
+        "text": "You can be elected."
+      },
+      {
+        "number": 2,
+        "text": "You must go voting."
+      },
+      {
+        "number": 3,
+        "text": "You can vote.",
+        "correct": true
+      },
+      {
+        "number": 4,
+        "text": "You must go to the counting of votes."
+      }
+    ]
+  },
+  {
+    "order": 116,
+    "instruction": "If you are allowed to vote in a federal election in Germany, that is called...",
+    "options": [
+      {
+        "number": 1,
+        "text": "active election campaign."
+      },
+      {
+        "number": 2,
+        "text": "active voting procedure."
+      },
+      {
+        "number": 3,
+        "text": "active election battle."
+      },
+      {
+        "number": 4,
+        "text": "active voting rights.",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "order": 117,
+    "instruction": "What percentage of second votes must parties receive at minimum to be elected to the German Bundestag?",
+    "options": [
+      {
+        "number": 1,
+        "text": "3%"
+      },
+      {
+        "number": 2,
+        "text": "4%"
+      },
+      {
+        "number": 3,
+        "text": "5%",
+        "correct": true
+      },
+      {
+        "number": 4,
+        "text": "6%"
+      }
+    ]
+  },
+  {
+    "order": 118,
+    "instruction": "Who can become a member of around 40 Jewish Makkabi sports clubs?",
+    "options": [
+      {
+        "number": 1,
+        "text": "only Germans"
+      },
+      {
+        "number": 2,
+        "text": "only Israelis"
+      },
+      {
+        "number": 3,
+        "text": "only religious people"
+      },
+      {
+        "number": 4,
+        "text": "all people",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "order": 119,
+    "instruction": "Elections in Germany are free. What does that mean?",
+    "options": [
+      {
+        "number": 1,
+        "text": "All convicted criminals are not allowed to vote."
+      },
+      {
+        "number": 2,
+        "text": "If I want to go voting, my employer must give me time off."
+      },
+      {
+        "number": 3,
+        "text": "Each person can decide without coercion whether they want to vote and whom they want to vote for.",
+        "correct": true
+      },
+      {
+        "number": 4,
+        "text": "I can freely decide where I want to vote."
+      }
+    ]
+  },
+  {
+    "order": 120,
+    "instruction": "The voting system in Germany is a...",
+    "options": [
+      {
+        "number": 1,
+        "text": "census voting right."
+      },
+      {
+        "number": 2,
+        "text": "three-class voting right."
+      },
+      {
+        "number": 3,
+        "text": "majority and proportional voting right.",
+        "correct": true
+      },
+      {
+        "number": 4,
+        "text": "universal male voting right."
+      }
+    ]
+  },
+  {
+    "order": 121,
+    "instruction": "A party wants to enter the German Bundestag. But it must have a minimum share of voter votes. That is called...",
+    "options": [
+      {
+        "number": 1,
+        "text": "5% hurdle.",
+        "correct": true
+      },
+      {
+        "number": 2,
+        "text": "admission threshold."
+      },
+      {
+        "number": 3,
+        "text": "base value."
+      },
+      {
+        "number": 4,
+        "text": "guideline."
+      }
+    ]
+  },
+  {
+    "order": 122,
+    "instruction": "What principle underlies elections in Germany? Elections in Germany are...",
+    "options": [
+      {
+        "number": 1,
+        "text": "free, equal, secret.",
+        "correct": true
+      },
+      {
+        "number": 2,
+        "text": "open, secure, free."
+      },
+      {
+        "number": 3,
+        "text": "closed, equal, secure."
+      },
+      {
+        "number": 4,
+        "text": "secure, open, voluntary."
+      }
+    ]
+  },
+  {
+    "order": 123,
+    "instruction": "What is the \"5% hurdle\" in Germany?",
+    "options": [
+      {
+        "number": 1,
+        "text": "voting regulation in the Bundestag for small parties"
+      },
+      {
+        "number": 2,
+        "text": "attendance control in the Bundestag for votes"
+      },
+      {
+        "number": 3,
+        "text": "minimum share of voter votes to enter parliament",
+        "correct": true
+      },
+      {
+        "number": 4,
+        "text": "attendance control in the Bundesrat for votes"
+      }
+    ]
+  },
+  {
+    "order": 124,
+    "instruction": "The federal election in Germany is the election of...",
+    "options": [
+      {
+        "number": 1,
+        "text": "the Federal Chancellor."
+      },
+      {
+        "number": 2,
+        "text": "the parliaments of the states."
+      },
+      {
+        "number": 3,
+        "text": "the parliament for Germany.",
+        "correct": true
+      },
+      {
+        "number": 4,
+        "text": "the Federal President."
+      }
+    ]
+  },
+  {
+    "order": 125,
+    "instruction": "In a democracy, one function of regular elections is...",
+    "options": [
+      {
+        "number": 1,
+        "text": "to force citizens to cast their votes."
+      },
+      {
+        "number": 2,
+        "text": "to enable a change of government according to the will of the voting majority.",
+        "correct": true
+      },
+      {
+        "number": 3,
+        "text": "to preserve existing laws in the country."
+      },
+      {
+        "number": 4,
+        "text": "to give the poor more power."
+      }
+    ]
+  },
+  {
+    "order": 126,
+    "instruction": "What do eligible voters in Germany receive before an election?",
+    "options": [
+      {
+        "number": 1,
+        "text": "a voting notification from the municipality",
+        "correct": true
+      },
+      {
+        "number": 2,
+        "text": "voting permission from the Federal President"
+      },
+      {
+        "number": 3,
+        "text": "a notification from the Federal Assembly"
+      },
+      {
+        "number": 4,
+        "text": "a notification from the parish office"
+      }
+    ]
+  },
+  {
+    "order": 127,
+    "instruction": "Why is there a 5% hurdle in the electoral law of the Federal Republic of Germany? It exists because...",
+    "options": [
+      {
+        "number": 1,
+        "text": "the programs of many small parties have many things in common."
+      },
+      {
+        "number": 2,
+        "text": "citizens can lose orientation with many small parties."
+      },
+      {
+        "number": 3,
+        "text": "many small parties make government formation difficult.",
+        "correct": true
+      },
+      {
+        "number": 4,
+        "text": "small parties don't have enough money to pay the politicians."
+      }
+    ]
+  },
+  {
+    "order": 128,
+    "instruction": "Parliamentary members who are elected by citizens are called...",
+    "options": [
+      {
+        "number": 1,
+        "text": "representatives.",
+        "correct": true
+      },
+      {
+        "number": 2,
+        "text": "chancellors."
+      },
+      {
+        "number": 3,
+        "text": "ambassadors."
+      },
+      {
+        "number": 4,
+        "text": "state ministers-president."
+      }
+    ]
+  },
+  {
+    "order": 129,
+    "instruction": "In Germany, the people elect...",
+    "options": [
+      {
+        "number": 1,
+        "text": "the Federal Chancellor."
+      },
+      {
+        "number": 2,
+        "text": "the Minister-President of a federal state."
+      },
+      {
+        "number": 3,
+        "text": "the Bundestag.",
+        "correct": true
+      },
+      {
+        "number": 4,
+        "text": "the Federal President."
+      }
+    ]
+  },
+  {
+    "order": 130,
+    "instruction": "Which ballot would be valid in a federal election?",
+    "options": [
+      {
+        "number": 1,
+        "text": "1",
+        "correct": true
+      },
+      {
+        "number": 2,
+        "text": "2"
+      },
+      {
+        "number": 3,
+        "text": "3"
+      },
+      {
+        "number": 4,
+        "text": "4"
+      }
+    ],
+    "image": "assets/images/130.png"
+  },
+  {
+    "order": 131,
+    "instruction": "In Germany, a mayor is...",
+    "options": [
+      {
+        "number": 1,
+        "text": "the head of a school."
+      },
+      {
+        "number": 2,
+        "text": "the head of a bank."
+      },
+      {
+        "number": 3,
+        "text": "the head of a municipality.",
+        "correct": true
+      },
+      {
+        "number": 4,
+        "text": "the chairperson of a party."
+      }
+    ]
+  },
+  {
+    "order": 132,
+    "instruction": "Many people in Germany work as volunteers in their free time. What does that mean?",
+    "options": [
+      {
+        "number": 1,
+        "text": "They work as soldiers."
+      },
+      {
+        "number": 2,
+        "text": "They work voluntarily and unpaid in associations and organizations.",
+        "correct": true
+      },
+      {
+        "number": 3,
+        "text": "They work in the federal government."
+      },
+      {
+        "number": 4,
+        "text": "They work in a hospital and earn money."
+      }
+    ]
+  },
+  {
+    "order": 133,
+    "instruction": "What is allowed in federal and state elections in Germany?",
+    "options": [
+      {
+        "number": 1,
+        "text": "The husband votes for his wife as well."
+      },
+      {
+        "number": 2,
+        "text": "You can cast your vote by mail ballot.",
+        "correct": true
+      },
+      {
+        "number": 3,
+        "text": "You can cast your vote by telephone on election day."
+      },
+      {
+        "number": 4,
+        "text": "Children from age 14 are allowed to vote."
+      }
+    ]
+  },
+  {
+    "order": 134,
+    "instruction": "They want to abolish the bus line that you always use to go to work. What can you do to keep the bus line?",
+    "options": [
+      {
+        "number": 1,
+        "text": "I participate in a citizens' initiative for the preservation of the bus line or found one myself.",
+        "correct": true
+      },
+      {
+        "number": 2,
+        "text": "I become a member of a sports club and train cycling."
+      },
+      {
+        "number": 3,
+        "text": "I contact the tax office because I have a right to the bus line as a taxpayer."
+      },
+      {
+        "number": 4,
+        "text": "I write a letter to the forestry office of the municipality."
+      }
+    ]
+  },
+  {
+    "order": 135,
+    "instruction": "Who do trade unions in Germany represent?",
+    "options": [
+      {
+        "number": 1,
+        "text": "large companies"
+      },
+      {
+        "number": 2,
+        "text": "small companies"
+      },
+      {
+        "number": 3,
+        "text": "self-employed people"
+      },
+      {
+        "number": 4,
+        "text": "employees",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "order": 136,
+    "instruction": "In Germany, you go to the labor court for...",
+    "options": [
+      {
+        "number": 1,
+        "text": "incorrect ancillary cost statement."
+      },
+      {
+        "number": 2,
+        "text": "unjustified dismissal by your employer.",
+        "correct": true
+      },
+      {
+        "number": 3,
+        "text": "problems with neighbors."
+      },
+      {
+        "number": 4,
+        "text": "difficulties after a traffic accident."
+      }
+    ]
+  },
+  {
+    "order": 137,
+    "instruction": "Which court is responsible for conflicts in the workplace in Germany?",
+    "options": [
+      {
+        "number": 1,
+        "text": "family court"
+      },
+      {
+        "number": 2,
+        "text": "criminal court"
+      },
+      {
+        "number": 3,
+        "text": "labor court",
+        "correct": true
+      },
+      {
+        "number": 4,
+        "text": "district court"
+      }
+    ]
+  },
+  {
+    "order": 138,
+    "instruction": "What can I do in Germany if my employer has wrongly dismissed me?",
+    "options": [
+      {
+        "number": 1,
+        "text": "continue working and be friendly to the boss"
+      },
+      {
+        "number": 2,
+        "text": "file a payment default procedure against the employer"
+      },
+      {
+        "number": 3,
+        "text": "file a wrongful termination lawsuit",
+        "correct": true
+      },
+      {
+        "number": 4,
+        "text": "report the employer to the police"
+      }
+    ]
+  },
+  {
+    "order": 139,
+    "instruction": "When does a trial take place in court in Germany? When someone...",
+    "options": [
+      {
+        "number": 1,
+        "text": "converts to another religion."
+      },
+      {
+        "number": 2,
+        "text": "has committed a criminal act and is charged.",
+        "correct": true
+      },
+      {
+        "number": 3,
+        "text": "expresses a different opinion than that of the government."
+      },
+      {
+        "number": 4,
+        "text": "has parked his car incorrectly and it is being towed."
+      }
+    ]
+  },
+  {
+    "order": 140,
+    "instruction": "What does a lay judge do in Germany? He/She...",
+    "options": [
+      {
+        "number": 1,
+        "text": "decides together with judges on guilt and punishment.",
+        "correct": true
+      },
+      {
+        "number": 2,
+        "text": "gives citizens legal advice."
+      },
+      {
+        "number": 3,
+        "text": "issues certificates."
+      },
+      {
+        "number": 4,
+        "text": "defends the defendant."
+      }
+    ]
+  },
+  {
+    "order": 141,
+    "instruction": "Who advises people on legal matters in Germany and represents them in court?",
+    "options": [
+      {
+        "number": 1,
+        "text": "a lawyer",
+        "correct": true
+      },
+      {
+        "number": 2,
+        "text": "a judge"
+      },
+      {
+        "number": 3,
+        "text": "a lay judge"
+      },
+      {
+        "number": 4,
+        "text": "a public prosecutor"
+      }
+    ]
+  },
+  {
+    "order": 142,
+    "instruction": "What is the main task of a judge in Germany? A judge...",
+    "options": [
+      {
+        "number": 1,
+        "text": "represents citizens in a court."
+      },
+      {
+        "number": 2,
+        "text": "works in a court and pronounces judgments.",
+        "correct": true
+      },
+      {
+        "number": 3,
+        "text": "changes laws."
+      },
+      {
+        "number": 4,
+        "text": "supervises juveniles in court."
+      }
+    ]
+  },
+  {
+    "order": 143,
+    "instruction": "A judge in Germany belongs to the...",
+    "options": [
+      {
+        "number": 1,
+        "text": "judiciary.",
+        "correct": true
+      },
+      {
+        "number": 2,
+        "text": "executive."
+      },
+      {
+        "number": 3,
+        "text": "operative."
+      },
+      {
+        "number": 4,
+        "text": "legislative."
+      }
+    ]
+  },
+  {
+    "order": 144,
+    "instruction": "A judge belongs in Germany to the...",
+    "options": [
+      {
+        "number": 1,
+        "text": "executive power."
+      },
+      {
+        "number": 2,
+        "text": "judicial power.",
+        "correct": true
+      },
+      {
+        "number": 3,
+        "text": "planning power."
+      },
+      {
+        "number": 4,
+        "text": "legislative power."
+      }
+    ]
+  },
+  {
+    "order": 145,
+    "instruction": "In Germany, state power is divided. For which state power does a judge work? For the...",
+    "options": [
+      {
+        "number": 1,
+        "text": "judiciary",
+        "correct": true
+      },
+      {
+        "number": 2,
+        "text": "executive"
+      },
+      {
+        "number": 3,
+        "text": "press"
+      },
+      {
+        "number": 4,
+        "text": "legislative"
+      }
+    ]
+  },
+  {
+    "order": 146,
+    "instruction": "What is a court proceeding called in Germany?",
+    "options": [
+      {
+        "number": 1,
+        "text": "program"
+      },
+      {
+        "number": 2,
+        "text": "procedure"
+      },
+      {
+        "number": 3,
+        "text": "protocol"
+      },
+      {
+        "number": 4,
+        "text": "trial",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "order": 147,
+    "instruction": "What is the work of a judge in Germany?",
+    "options": [
+      {
+        "number": 1,
+        "text": "govern Germany"
+      },
+      {
+        "number": 2,
+        "text": "administer justice",
+        "correct": true
+      },
+      {
+        "number": 3,
+        "text": "create plans"
+      },
+      {
+        "number": 4,
+        "text": "enact laws"
+      }
+    ]
+  },
+  {
+    "order": 148,
+    "instruction": "What is a task of the police in Germany?",
+    "options": [
+      {
+        "number": 1,
+        "text": "defend the country"
+      },
+      {
+        "number": 2,
+        "text": "wiretap citizens"
+      },
+      {
+        "number": 3,
+        "text": "pass laws"
+      },
+      {
+        "number": 4,
+        "text": "monitor compliance with laws",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "order": 149,
+    "instruction": "What is an example of antisemitic behavior?",
+    "options": [
+      {
+        "number": 1,
+        "text": "visit a Jewish festival"
+      },
+      {
+        "number": 2,
+        "text": "criticize the Israeli government"
+      },
+      {
+        "number": 3,
+        "text": "deny the Holocaust",
+        "correct": true
+      },
+      {
+        "number": 4,
+        "text": "play football against Jews"
+      }
+    ]
+  },
+  {
+    "order": 150,
+    "instruction": "A lay judge in Germany is...",
+    "options": [
+      {
+        "number": 1,
+        "text": "the deputy of the city mayor."
+      },
+      {
+        "number": 2,
+        "text": "a volunteer judge.",
+        "correct": true
+      },
+      {
+        "number": 3,
+        "text": "a member of a municipal council."
+      },
+      {
+        "number": 4,
+        "text": "a person who studied law."
+      }
+    ]
+  },
+  {
+    "order": 151,
+    "instruction": "Who built the wall in Berlin?",
+    "options": [
+      {
+        "number": 1,
+        "text": "Great Britain"
+      },
+      {
+        "number": 2,
+        "text": "the GDR (East Germany)",
+        "correct": true
+      },
+      {
+        "number": 3,
+        "text": "the Federal Republic of Germany"
+      },
+      {
+        "number": 4,
+        "text": "the USA"
+      }
+    ]
+  },
+  {
+    "order": 152,
+    "instruction": "When were the National Socialists under Adolf Hitler in power in Germany?",
+    "options": [
+      {
+        "number": 1,
+        "text": "1918 to 1923"
+      },
+      {
+        "number": 2,
+        "text": "1932 to 1950"
+      },
+      {
+        "number": 3,
+        "text": "1933 to 1945",
+        "correct": true
+      },
+      {
+        "number": 4,
+        "text": "1945 to 1989"
+      }
+    ]
+  },
+  {
+    "order": 153,
+    "instruction": "What happened on May 8, 1945?",
+    "options": [
+      {
+        "number": 1,
+        "text": "death of Adolf Hitler"
+      },
+      {
+        "number": 2,
+        "text": "beginning of Berlin wall construction"
+      },
+      {
+        "number": 3,
+        "text": "election of Konrad Adenauer as Federal Chancellor"
+      },
+      {
+        "number": 4,
+        "text": "end of World War II in Europe",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "order": 154,
+    "instruction": "When did World War II end?",
+    "options": [
+      {
+        "number": 1,
+        "text": "1933"
+      },
+      {
+        "number": 2,
+        "text": "1945",
+        "correct": true
+      },
+      {
+        "number": 3,
+        "text": "1949"
+      },
+      {
+        "number": 4,
+        "text": "1961"
+      }
+    ]
+  },
+  {
+    "order": 155,
+    "instruction": "When were the National Socialists in power in Germany?",
+    "options": [
+      {
+        "number": 1,
+        "text": "1888 to 1918"
+      },
+      {
+        "number": 2,
+        "text": "1921 to 1934"
+      },
+      {
+        "number": 3,
+        "text": "1933 to 1945",
+        "correct": true
+      },
+      {
+        "number": 4,
+        "text": "1949 to 1963"
+      }
+    ]
+  },
+  {
+    "order": 156,
+    "instruction": "In which year did Hitler become Reich Chancellor?",
+    "options": [
+      {
+        "number": 1,
+        "text": "1923"
+      },
+      {
+        "number": 2,
+        "text": "1927"
+      },
+      {
+        "number": 3,
+        "text": "1933",
+        "correct": true
+      },
+      {
+        "number": 4,
+        "text": "1936"
+      }
+    ]
+  },
+  {
+    "order": 157,
+    "instruction": "The National Socialists under Adolf Hitler established in 1933 in Germany...",
+    "options": [
+      {
+        "number": 1,
+        "text": "a dictatorship.",
+        "correct": true
+      },
+      {
+        "number": 2,
+        "text": "a democratic state."
+      },
+      {
+        "number": 3,
+        "text": "a monarchy."
+      },
+      {
+        "number": 4,
+        "text": "a principality."
+      }
+    ]
+  },
+  {
+    "order": 158,
+    "instruction": "The \"Third Reich\" was a...",
+    "options": [
+      {
+        "number": 1,
+        "text": "dictatorship.",
+        "correct": true
+      },
+      {
+        "number": 2,
+        "text": "democracy."
+      },
+      {
+        "number": 3,
+        "text": "monarchy."
+      },
+      {
+        "number": 4,
+        "text": "council republic."
+      }
+    ]
+  },
+  {
+    "order": 159,
+    "instruction": "What did not exist in Germany during the time of National Socialism?",
+    "options": [
+      {
+        "number": 1,
+        "text": "free elections",
+        "correct": true
+      },
+      {
+        "number": 2,
+        "text": "press censorship"
+      },
+      {
+        "number": 3,
+        "text": "arbitrary arrests"
+      },
+      {
+        "number": 4,
+        "text": "persecution of the Jews"
+      }
+    ]
+  },
+  {
+    "order": 160,
+    "instruction": "Which war lasted from 1939 to 1945?",
+    "options": [
+      {
+        "number": 1,
+        "text": "World War I"
+      },
+      {
+        "number": 2,
+        "text": "World War II",
+        "correct": true
+      },
+      {
+        "number": 3,
+        "text": "the Vietnam War"
+      },
+      {
+        "number": 4,
+        "text": "the Gulf War"
+      }
+    ]
+  },
+  {
+    "order": 161,
+    "instruction": "What characterized the NS state? A policy...",
+    "options": [
+      {
+        "number": 1,
+        "text": "of state racism",
+        "correct": true
+      },
+      {
+        "number": 2,
+        "text": "of freedom of opinion"
+      },
+      {
+        "number": 3,
+        "text": "of universal religious freedom"
+      },
+      {
+        "number": 4,
+        "text": "of development of democracy"
+      }
+    ]
+  },
+  {
+    "order": 162,
+    "instruction": "Claus Schenk Graf von Stauffenberg became known for...",
+    "options": [
+      {
+        "number": 1,
+        "text": "a gold medal at the 1936 Olympic Games."
+      },
+      {
+        "number": 2,
+        "text": "building the Reichstag building."
+      },
+      {
+        "number": 3,
+        "text": "building up the Wehrmacht."
+      },
+      {
+        "number": 4,
+        "text": "the assassination attempt on Hitler on July 20, 1944.",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "order": 163,
+    "instruction": "In which year did the National Socialists destroy synagogues and Jewish businesses in Germany?",
+    "options": [
+      {
+        "number": 1,
+        "text": "1925"
+      },
+      {
+        "number": 2,
+        "text": "1930"
+      },
+      {
+        "number": 3,
+        "text": "1938",
+        "correct": true
+      },
+      {
+        "number": 4,
+        "text": "1945"
+      }
+    ]
+  },
+  {
+    "order": 164,
+    "instruction": "What happened on November 9, 1938 in Germany?",
+    "options": [
+      {
+        "number": 1,
+        "text": "With the attack on Poland, World War II begins."
+      },
+      {
+        "number": 2,
+        "text": "The National Socialists lose an election and dissolve the Reichstag."
+      },
+      {
+        "number": 3,
+        "text": "Jewish businesses and synagogues are destroyed by National Socialists and their followers.",
+        "correct": true
+      },
+      {
+        "number": 4,
+        "text": "Hitler becomes Reich President and bans all parties."
+      }
+    ]
+  },
+  {
+    "order": 165,
+    "instruction": "What was the name of the first Federal Chancellor of the Federal Republic of Germany?",
+    "options": [
+      {
+        "number": 1,
+        "text": "Konrad Adenauer",
+        "correct": true
+      },
+      {
+        "number": 2,
+        "text": "Kurt Georg Kiesinger"
+      },
+      {
+        "number": 3,
+        "text": "Helmut Schmidt"
+      },
+      {
+        "number": 4,
+        "text": "Willy Brandt"
+      }
+    ]
+  },
+  {
+    "order": 166,
+    "instruction": "At which demonstrations in Germany did people cry \"We are the people\"?",
+    "options": [
+      {
+        "number": 1,
+        "text": "at the workers' uprising in 1953 in East Germany"
+      },
+      {
+        "number": 2,
+        "text": "at the 1968 demonstrations in the Federal Republic of Germany"
+      },
+      {
+        "number": 3,
+        "text": "at the anti-nuclear demonstrations in 1985 in the Federal Republic of Germany"
+      },
+      {
+        "number": 4,
+        "text": "at the Monday demonstrations in 1989 in East Germany",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "order": 167,
+    "instruction": "Which countries were referred to as \"Allied occupation powers\" in Germany after World War II?",
+    "options": [
+      {
+        "number": 1,
+        "text": "Soviet Union, Great Britain, Poland, Sweden"
+      },
+      {
+        "number": 2,
+        "text": "France, Soviet Union, Italy, Japan"
+      },
+      {
+        "number": 3,
+        "text": "USA, Soviet Union, Spain, Portugal"
+      },
+      {
+        "number": 4,
+        "text": "USA, Soviet Union, Great Britain, France",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "order": 168,
+    "instruction": "Which country was not an \"Allied occupation power\" in Germany?",
+    "options": [
+      {
+        "number": 1,
+        "text": "USA"
+      },
+      {
+        "number": 2,
+        "text": "Soviet Union"
+      },
+      {
+        "number": 3,
+        "text": "France"
+      },
+      {
+        "number": 4,
+        "text": "Japan",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "order": 169,
+    "instruction": "When was the Federal Republic of Germany founded?",
+    "options": [
+      {
+        "number": 1,
+        "text": "1939"
+      },
+      {
+        "number": 2,
+        "text": "1945"
+      },
+      {
+        "number": 3,
+        "text": "1949",
+        "correct": true
+      },
+      {
+        "number": 4,
+        "text": "1951"
+      }
+    ]
+  },
+  {
+    "order": 170,
+    "instruction": "What existed during the time of National Socialism in Germany?",
+    "options": [
+      {
+        "number": 1,
+        "text": "the ban on parties",
+        "correct": true
+      },
+      {
+        "number": 2,
+        "text": "the right to free development of personality"
+      },
+      {
+        "number": 3,
+        "text": "press freedom"
+      },
+      {
+        "number": 4,
+        "text": "protection of human dignity"
+      }
+    ]
+  },
+  {
+    "order": 171,
+    "instruction": "Social market economy means the economy...",
+    "options": [
+      {
+        "number": 1,
+        "text": "is regulated solely by supply and demand."
+      },
+      {
+        "number": 2,
+        "text": "is planned and controlled by the state, supply and demand are not considered."
+      },
+      {
+        "number": 3,
+        "text": "is based on foreign demand."
+      },
+      {
+        "number": 4,
+        "text": "is based on supply and demand, but the state ensures social balance.",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "order": 172,
+    "instruction": "In which occupation zone was the GDR (East Germany) founded? In the...",
+    "options": [
+      {
+        "number": 1,
+        "text": "American occupation zone"
+      },
+      {
+        "number": 2,
+        "text": "French occupation zone"
+      },
+      {
+        "number": 3,
+        "text": "British occupation zone"
+      },
+      {
+        "number": 4,
+        "text": "Soviet occupation zone",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "order": 173,
+    "instruction": "The Federal Republic of Germany is a founding member...",
+    "options": [
+      {
+        "number": 1,
+        "text": "of the North Atlantic Treaty Organization (NATO)."
+      },
+      {
+        "number": 2,
+        "text": "of the United Nations (UN)."
+      },
+      {
+        "number": 3,
+        "text": "of the European Union (EU).",
+        "correct": true
+      },
+      {
+        "number": 4,
+        "text": "of the Warsaw Pact."
+      }
+    ]
+  },
+  {
+    "order": 174,
+    "instruction": "When was the GDR (East Germany) founded?",
+    "options": [
+      {
+        "number": 1,
+        "text": "1947"
+      },
+      {
+        "number": 2,
+        "text": "1949",
+        "correct": true
+      },
+      {
+        "number": 3,
+        "text": "1953"
+      },
+      {
+        "number": 4,
+        "text": "1956"
+      }
+    ]
+  },
+  {
+    "order": 175,
+    "instruction": "How many occupation zones were there in Germany after World War II?",
+    "options": [
+      {
+        "number": 1,
+        "text": "3"
+      },
+      {
+        "number": 2,
+        "text": "4",
+        "correct": true
+      },
+      {
+        "number": 3,
+        "text": "5"
+      },
+      {
+        "number": 4,
+        "text": "6"
+      }
+    ]
+  },
+  {
+    "order": 176,
+    "instruction": "How were the occupation zones of Germany distributed after 1945?",
+    "options": [
+      {
+        "number": 1,
+        "text": "1=Great Britain, 2=Soviet Union, 3=France, 4=USA"
+      },
+      {
+        "number": 2,
+        "text": "1=Soviet Union, 2=Great Britain, 3=USA, 4=France"
+      },
+      {
+        "number": 3,
+        "text": "1=Great Britain, 2=Soviet Union, 3=USA, 4=France",
+        "correct": true
+      },
+      {
+        "number": 4,
+        "text": "1=Great Britain, 2=USA, 3=Soviet Union, 4=France"
+      }
+    ],
+    "image": "assets/images/176.png"
+  },
+  {
+    "order": 177,
+    "instruction": "Which German city was divided into four sectors after World War II?",
+    "options": [
+      {
+        "number": 1,
+        "text": "Munich"
+      },
+      {
+        "number": 2,
+        "text": "Berlin",
+        "correct": true
+      },
+      {
+        "number": 3,
+        "text": "Dresden"
+      },
+      {
+        "number": 4,
+        "text": "Frankfurt am Oder"
+      }
+    ]
+  },
+  {
+    "order": 178,
+    "instruction": "From June 1948 to May 1949, the citizens of West Berlin were supplied by an airlift. What circumstance was responsible for this?",
+    "options": [
+      {
+        "number": 1,
+        "text": "For France, supplying the West Berlin population by airplane was more cost-effective."
+      },
+      {
+        "number": 2,
+        "text": "American soldiers were afraid of attacks during land transport."
+      },
+      {
+        "number": 3,
+        "text": "For Great Britain, supplying via the airlift was faster."
+      },
+      {
+        "number": 4,
+        "text": "The Soviet Union interrupted all land traffic.",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "order": 179,
+    "instruction": "How did World War II officially end in Europe?",
+    "options": [
+      {
+        "number": 1,
+        "text": "with the death of Adolf Hitler"
+      },
+      {
+        "number": 2,
+        "text": "through Germany's unconditional surrender",
+        "correct": true
+      },
+      {
+        "number": 3,
+        "text": "with the German withdrawal from occupied territories"
+      },
+      {
+        "number": 4,
+        "text": "through a revolution in Germany"
+      }
+    ]
+  },
+  {
+    "order": 180,
+    "instruction": "The first Federal Chancellor of the Federal Republic of Germany was...",
+    "options": [
+      {
+        "number": 1,
+        "text": "Ludwig Erhard."
+      },
+      {
+        "number": 2,
+        "text": "Willy Brandt."
+      },
+      {
+        "number": 3,
+        "text": "Konrad Adenauer.",
+        "correct": true
+      },
+      {
+        "number": 4,
+        "text": "Gerhard Schröder."
+      }
+    ]
+  },
+  {
+    "order": 181,
+    "instruction": "What did Willy Brandt express with his kneeling in 1970 in the former Jewish ghetto in Warsaw?",
+    "options": [
+      {
+        "number": 1,
+        "text": "He submitted to the former Allies."
+      },
+      {
+        "number": 2,
+        "text": "He asked Poland and the Polish Jews for forgiveness.",
+        "correct": true
+      },
+      {
+        "number": 3,
+        "text": "He showed his humility before the Warsaw Pact."
+      },
+      {
+        "number": 4,
+        "text": "He spoke a prayer at the grave of the Unknown Soldier."
+      }
+    ],
+    "image": "assets/images/181.png"
+  },
+  {
+    "order": 182,
+    "instruction": "What is the Jewish place of worship called?",
+    "options": [
+      {
+        "number": 1,
+        "text": "Basilica"
+      },
+      {
+        "number": 2,
+        "text": "Mosque"
+      },
+      {
+        "number": 3,
+        "text": "Synagogue",
+        "correct": true
+      },
+      {
+        "number": 4,
+        "text": "Church"
+      }
+    ]
+  },
+  {
+    "order": 183,
+    "instruction": "When was the \"economic miracle\" in the Federal Republic of Germany?",
+    "options": [
+      {
+        "number": 1,
+        "text": "1940s"
+      },
+      {
+        "number": 2,
+        "text": "1950s",
+        "correct": true
+      },
+      {
+        "number": 3,
+        "text": "1970s"
+      },
+      {
+        "number": 4,
+        "text": "1980s"
+      }
+    ]
+  },
+  {
+    "order": 184,
+    "instruction": "On what legal basis was the State of Israel founded?",
+    "options": [
+      {
+        "number": 1,
+        "text": "a United Nations resolution",
+        "correct": true
+      },
+      {
+        "number": 2,
+        "text": "a resolution of the Zionist Congress"
+      },
+      {
+        "number": 3,
+        "text": "a proposal of the German government"
+      },
+      {
+        "number": 4,
+        "text": "a proposal of the Soviet Union"
+      }
+    ]
+  },
+  {
+    "order": 185,
+    "instruction": "What did the term \"Iron Curtain\" stand for? For the isolation of...",
+    "options": [
+      {
+        "number": 1,
+        "text": "the Warsaw Pact from the West",
+        "correct": true
+      },
+      {
+        "number": 2,
+        "text": "Northern Germany from Southern Germany"
+      },
+      {
+        "number": 3,
+        "text": "Nazi Germany from the Allies"
+      },
+      {
+        "number": 4,
+        "text": "Europe from the USA"
+      }
+    ]
+  },
+  {
+    "order": 186,
+    "instruction": "In 1953 there was an uprising in the GDR (East Germany), which was remembered for a long time by a holiday in the Federal Republic of Germany. When was that?",
+    "options": [
+      {
+        "number": 1,
+        "text": "May 1"
+      },
+      {
+        "number": 2,
+        "text": "June 17",
+        "correct": true
+      },
+      {
+        "number": 3,
+        "text": "July 20"
+      },
+      {
+        "number": 4,
+        "text": "November 9"
+      }
+    ]
+  },
+  {
+    "order": 187,
+    "instruction": "Which German state had a black-red-gold flag with hammer, compass, and wheat ear wreath?",
+    "options": [
+      {
+        "number": 1,
+        "text": "Prussia"
+      },
+      {
+        "number": 2,
+        "text": "Federal Republic of Germany"
+      },
+      {
+        "number": 3,
+        "text": "\"Third Reich\""
+      },
+      {
+        "number": 4,
+        "text": "GDR (East Germany)",
+        "correct": true
+      }
+    ],
+    "image": "assets/images/187.png"
+  },
+  {
+    "order": 188,
+    "instruction": "In which year was the wall in Berlin built?",
+    "options": [
+      {
+        "number": 1,
+        "text": "1953"
+      },
+      {
+        "number": 2,
+        "text": "1956"
+      },
+      {
+        "number": 3,
+        "text": "1959"
+      },
+      {
+        "number": 4,
+        "text": "1961",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "order": 189,
+    "instruction": "When did the GDR (East Germany) build the wall in Berlin?",
+    "options": [
+      {
+        "number": 1,
+        "text": "1919"
+      },
+      {
+        "number": 2,
+        "text": "1933"
+      },
+      {
+        "number": 3,
+        "text": "1961",
+        "correct": true
+      },
+      {
+        "number": 4,
+        "text": "1990"
+      }
+    ]
+  },
+  {
+    "order": 190,
+    "instruction": "What does the abbreviation GDR mean?",
+    "options": [
+      {
+        "number": 1,
+        "text": "Third German Radio"
+      },
+      {
+        "number": 2,
+        "text": "The German Republic"
+      },
+      {
+        "number": 3,
+        "text": "Third German Republic"
+      },
+      {
+        "number": 4,
+        "text": "German Democratic Republic",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "order": 191,
+    "instruction": "When was the wall in Berlin opened for everyone?",
+    "options": [
+      {
+        "number": 1,
+        "text": "1987"
+      },
+      {
+        "number": 2,
+        "text": "1989",
+        "correct": true
+      },
+      {
+        "number": 3,
+        "text": "1992"
+      },
+      {
+        "number": 4,
+        "text": "1995"
+      }
+    ]
+  },
+  {
+    "order": 192,
+    "instruction": "Which present-day German federal state formerly belonged to the territory of the GDR (East Germany)?",
+    "options": [
+      {
+        "number": 1,
+        "text": "Brandenburg",
+        "correct": true
+      },
+      {
+        "number": 2,
+        "text": "Bavaria"
+      },
+      {
+        "number": 3,
+        "text": "Saarland"
+      },
+      {
+        "number": 4,
+        "text": "Hesse"
+      }
+    ]
+  },
+  {
+    "order": 193,
+    "instruction": "From 1961 to 1989, Berlin was...",
+    "options": [
+      {
+        "number": 1,
+        "text": "without a mayor."
+      },
+      {
+        "number": 2,
+        "text": "its own state."
+      },
+      {
+        "number": 3,
+        "text": "divided by a wall.",
+        "correct": true
+      },
+      {
+        "number": 4,
+        "text": "only accessible by airplane."
+      }
+    ]
+  },
+  {
+    "order": 194,
+    "instruction": "On October 3rd, Germany celebrates the Day of German...",
+    "options": [
+      {
+        "number": 1,
+        "text": "Unity.",
+        "correct": true
+      },
+      {
+        "number": 2,
+        "text": "Nation."
+      },
+      {
+        "number": 3,
+        "text": "Federal States."
+      },
+      {
+        "number": 4,
+        "text": "Cities."
+      }
+    ]
+  },
+  {
+    "order": 195,
+    "instruction": "Which present-day German federal state formerly belonged to the territory of the GDR (East Germany)?",
+    "options": [
+      {
+        "number": 1,
+        "text": "Hesse"
+      },
+      {
+        "number": 2,
+        "text": "Saxony-Anhalt",
+        "correct": true
+      },
+      {
+        "number": 3,
+        "text": "North Rhine-Westphalia"
+      },
+      {
+        "number": 4,
+        "text": "Saarland"
+      }
+    ]
+  },
+  {
+    "order": 196,
+    "instruction": "Why is the autumn of 1989 in the GDR (East Germany) called \"The Turning Point\"? During this time, the GDR changed politically...",
+    "options": [
+      {
+        "number": 1,
+        "text": "from a dictatorship to a democracy.",
+        "correct": true
+      },
+      {
+        "number": 2,
+        "text": "from a liberal market economy to socialism."
+      },
+      {
+        "number": 3,
+        "text": "from a monarchy to social democracy."
+      },
+      {
+        "number": 4,
+        "text": "from a religious state to a communist state."
+      }
+    ]
+  },
+  {
+    "order": 197,
+    "instruction": "Which present-day German federal state formerly belonged to the territory of the GDR (East Germany)?",
+    "options": [
+      {
+        "number": 1,
+        "text": "Thuringia",
+        "correct": true
+      },
+      {
+        "number": 2,
+        "text": "Hesse"
+      },
+      {
+        "number": 3,
+        "text": "Bavaria"
+      },
+      {
+        "number": 4,
+        "text": "Bremen"
+      }
+    ]
+  },
+  {
+    "order": 198,
+    "instruction": "Which present-day German federal state formerly belonged to the territory of the GDR (East Germany)?",
+    "options": [
+      {
+        "number": 1,
+        "text": "Bavaria"
+      },
+      {
+        "number": 2,
+        "text": "Lower Saxony"
+      },
+      {
+        "number": 3,
+        "text": "Saxony",
+        "correct": true
+      },
+      {
+        "number": 4,
+        "text": "Baden-Württemberg"
+      }
+    ]
+  },
+  {
+    "order": 199,
+    "instruction": "The abbreviation \"Stasi\" in the GDR (East Germany) referred to...",
+    "options": [
+      {
+        "number": 1,
+        "text": "the parliament."
+      },
+      {
+        "number": 2,
+        "text": "the Ministry for State Security.",
+        "correct": true
+      },
+      {
+        "number": 3,
+        "text": "a governing party."
+      },
+      {
+        "number": 4,
+        "text": "the Ministry for Public Education."
+      }
+    ]
+  },
+  {
+    "order": 200,
+    "instruction": "Which present-day German federal state formerly belonged to the territory of the GDR (East Germany)?",
+    "options": [
+      {
+        "number": 1,
+        "text": "Hesse"
+      },
+      {
+        "number": 2,
+        "text": "Schleswig-Holstein"
+      },
+      {
+        "number": 3,
+        "text": "Mecklenburg-Western Pomerania",
+        "correct": true
+      },
+      {
+        "number": 4,
+        "text": "Saarland"
+      }
+    ]
+  },
+  {
+    "order": 201,
+    "instruction": "Which of the following lists contains only federal states that belonged to the territory of the former GDR (East Germany)?",
+    "options": [
+      {
+        "number": 1,
+        "text": "Lower Saxony, North Rhine-Westphalia, Hesse, Schleswig-Holstein, Brandenburg"
+      },
+      {
+        "number": 2,
+        "text": "Mecklenburg-Western Pomerania, Brandenburg, Saxony, Saxony-Anhalt, Thuringia",
+        "correct": true
+      },
+      {
+        "number": 3,
+        "text": "Bavaria, Baden-Württemberg, Rhineland-Palatinate, Thuringia, Saxony"
+      },
+      {
+        "number": 4,
+        "text": "Saxony, Thuringia, Hesse, Lower Saxony, Brandenburg"
+      }
+    ]
+  },
+  {
+    "order": 202,
+    "instruction": "To whom did the GDR (East Germany) belong in the \"Cold War\"?",
+    "options": [
+      {
+        "number": 1,
+        "text": "to the Western powers"
+      },
+      {
+        "number": 2,
+        "text": "to the Warsaw Pact",
+        "correct": true
+      },
+      {
+        "number": 3,
+        "text": "to NATO"
+      },
+      {
+        "number": 4,
+        "text": "to the non-aligned states"
+      }
+    ]
+  },
+  {
+    "order": 203,
+    "instruction": "What was the economic system of the GDR (East Germany) called?",
+    "options": [
+      {
+        "number": 1,
+        "text": "market economy"
+      },
+      {
+        "number": 2,
+        "text": "planned economy",
+        "correct": true
+      },
+      {
+        "number": 3,
+        "text": "supply and demand"
+      },
+      {
+        "number": 4,
+        "text": "capitalism"
+      }
+    ]
+  },
+  {
+    "order": 204,
+    "instruction": "How did the Federal Republic of Germany and the GDR (East Germany) become one state?",
+    "options": [
+      {
+        "number": 1,
+        "text": "The Federal Republic occupied the GDR (East Germany)."
+      },
+      {
+        "number": 2,
+        "text": "The present five eastern federal states joined the Federal Republic of Germany.",
+        "correct": true
+      },
+      {
+        "number": 3,
+        "text": "The western federal states joined the GDR (East Germany)."
+      },
+      {
+        "number": 4,
+        "text": "The GDR (East Germany) occupied the Federal Republic of Germany."
+      }
+    ]
+  },
+  {
+    "order": 205,
+    "instruction": "With the accession of the GDR (East Germany) to the Federal Republic of Germany, the new federal states now also belong to...",
+    "options": [
+      {
+        "number": 1,
+        "text": "the European Union.",
+        "correct": true
+      },
+      {
+        "number": 2,
+        "text": "the Warsaw Pact."
+      },
+      {
+        "number": 3,
+        "text": "OPEC."
+      },
+      {
+        "number": 4,
+        "text": "the European Defense Community."
+      }
+    ]
+  },
+  {
+    "order": 206,
+    "instruction": "What do the so-called 'Stolpersteine' (stumbling stones) in Germany commemorate?",
+    "options": [
+      {
+        "number": 1,
+        "text": "famous German politicians"
+      },
+      {
+        "number": 2,
+        "text": "the victims of National Socialism",
+        "correct": true
+      },
+      {
+        "number": 3,
+        "text": "traffic fatalities"
+      },
+      {
+        "number": 4,
+        "text": "famous Jewish musicians"
+      }
+    ]
+  },
+  {
+    "order": 207,
+    "instruction": "In which military alliance was the GDR (East Germany) a member?",
+    "options": [
+      {
+        "number": 1,
+        "text": "in NATO"
+      },
+      {
+        "number": 2,
+        "text": "in the Rhine Confederation"
+      },
+      {
+        "number": 3,
+        "text": "in the Warsaw Pact",
+        "correct": true
+      },
+      {
+        "number": 4,
+        "text": "in the European Alliance"
+      }
+    ]
+  },
+  {
+    "order": 208,
+    "instruction": "What was the \"Stasi\"?",
+    "options": [
+      {
+        "number": 1,
+        "text": "the secret service in the \"Third Reich\""
+      },
+      {
+        "number": 2,
+        "text": "a famous German memorial"
+      },
+      {
+        "number": 3,
+        "text": "the secret service of the GDR (East Germany)",
+        "correct": true
+      },
+      {
+        "number": 4,
+        "text": "a German sports club during World War II"
+      }
+    ]
+  },
+  {
+    "order": 209,
+    "instruction": "What was the coat of arms of the German Democratic Republic?",
+    "options": [
+      {
+        "number": 1,
+        "text": "1"
+      },
+      {
+        "number": 2,
+        "text": "2"
+      },
+      {
+        "number": 3,
+        "text": "3"
+      },
+      {
+        "number": 4,
+        "text": "4",
+        "correct": true
+      }
+    ],
+    "image": "assets/images/209.png"
+  },
+  {
+    "order": 210,
+    "instruction": "What happened on June 17, 1953 in the GDR (East Germany)?",
+    "options": [
+      {
+        "number": 1,
+        "text": "the solemn accession to the Warsaw Pact"
+      },
+      {
+        "number": 2,
+        "text": "nationwide strikes and a popular uprising",
+        "correct": true
+      },
+      {
+        "number": 3,
+        "text": "the 1st SED party congress"
+      },
+      {
+        "number": 4,
+        "text": "the first visit of Fidel Castro"
+      }
+    ]
+  },
+  {
+    "order": 211,
+    "instruction": "Which politician stands for the \"Eastern Treaties\"?",
+    "options": [
+      {
+        "number": 1,
+        "text": "Helmut Kohl"
+      },
+      {
+        "number": 2,
+        "text": "Willy Brandt",
+        "correct": true
+      },
+      {
+        "number": 3,
+        "text": "Mikhail Gorbachev"
+      },
+      {
+        "number": 4,
+        "text": "Ludwig Erhard"
+      }
+    ]
+  },
+  {
+    "order": 212,
+    "instruction": "What is Germany's full name?",
+    "options": [
+      {
+        "number": 1,
+        "text": "Federal State Germany"
+      },
+      {
+        "number": 2,
+        "text": "Federal States Germany"
+      },
+      {
+        "number": 3,
+        "text": "Federal Republic of Germany",
+        "correct": true
+      },
+      {
+        "number": 4,
+        "text": "Federal District Germany"
+      }
+    ]
+  },
+  {
+    "order": 213,
+    "instruction": "How many inhabitants does Germany have?",
+    "options": [
+      {
+        "number": 1,
+        "text": "70 million"
+      },
+      {
+        "number": 2,
+        "text": "78 million"
+      },
+      {
+        "number": 3,
+        "text": "84 million",
+        "correct": true
+      },
+      {
+        "number": 4,
+        "text": "90 million"
+      }
+    ]
+  },
+  {
+    "order": 214,
+    "instruction": "What colors does the German flag have?",
+    "options": [
+      {
+        "number": 1,
+        "text": "black-red-gold",
+        "correct": true
+      },
+      {
+        "number": 2,
+        "text": "red-white-black"
+      },
+      {
+        "number": 3,
+        "text": "black-red-green"
+      },
+      {
+        "number": 4,
+        "text": "black-yellow-red"
+      }
+    ]
+  },
+  {
+    "order": 215,
+    "instruction": "Who is referred to as the \"Chancellor of German Unity\"?",
+    "options": [
+      {
+        "number": 1,
+        "text": "Gerhard Schröder"
+      },
+      {
+        "number": 2,
+        "text": "Helmut Kohl",
+        "correct": true
+      },
+      {
+        "number": 3,
+        "text": "Konrad Adenauer"
+      },
+      {
+        "number": 4,
+        "text": "Helmut Schmidt"
+      }
+    ]
+  },
+  {
+    "order": 216,
+    "instruction": "Which symbol is seen in the plenary hall of the German Bundestag?",
+    "options": [
+      {
+        "number": 1,
+        "text": "the Federal Eagle.",
+        "correct": true
+      },
+      {
+        "number": 2,
+        "text": "the flag of Berlin city."
+      },
+      {
+        "number": 3,
+        "text": "the Reichsadler."
+      },
+      {
+        "number": 4,
+        "text": "the Imperial Crown."
+      }
+    ],
+    "image": "assets/images/216.png"
+  },
+  {
+    "order": 217,
+    "instruction": "During which time period did the German Democratic Republic (GDR) exist?",
+    "options": [
+      {
+        "number": 1,
+        "text": "1919 to 1927"
+      },
+      {
+        "number": 2,
+        "text": "1933 to 1945"
+      },
+      {
+        "number": 3,
+        "text": "1945 to 1961"
+      },
+      {
+        "number": 4,
+        "text": "1949 to 1990",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "order": 218,
+    "instruction": "How many federal states were added to the Federal Republic of Germany at the time of reunification in 1990?",
+    "options": [
+      {
+        "number": 1,
+        "text": "4"
+      },
+      {
+        "number": 2,
+        "text": "5",
+        "correct": true
+      },
+      {
+        "number": 3,
+        "text": "6"
+      },
+      {
+        "number": 4,
+        "text": "7"
+      }
+    ]
+  },
+  {
+    "order": 219,
+    "instruction": "The Federal Republic of Germany has had its current borders since...",
+    "options": [
+      {
+        "number": 1,
+        "text": "1933"
+      },
+      {
+        "number": 2,
+        "text": "1949"
+      },
+      {
+        "number": 3,
+        "text": "1971"
+      },
+      {
+        "number": 4,
+        "text": "1990",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "order": 220,
+    "instruction": "January 27 is an official day of remembrance in Germany. What does this day commemorate?",
+    "options": [
+      {
+        "number": 1,
+        "text": "the end of World War II"
+      },
+      {
+        "number": 2,
+        "text": "the adoption of the Basic Law"
+      },
+      {
+        "number": 3,
+        "text": "the reunification of Germany"
+      },
+      {
+        "number": 4,
+        "text": "the victims of National Socialism (Day of Liberation of the Auschwitz extermination camp)",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "order": 221,
+    "instruction": "Germany is a member of the Schengen Agreement. What does that mean?",
+    "options": [
+      {
+        "number": 1,
+        "text": "Germans can travel to many European countries without passport control.",
+        "correct": true
+      },
+      {
+        "number": 2,
+        "text": "All people can enter Germany without personal control."
+      },
+      {
+        "number": 3,
+        "text": "Germans can travel to any country without passport control."
+      },
+      {
+        "number": 4,
+        "text": "Germans can pay with the euro in every country."
+      }
+    ]
+  },
+  {
+    "order": 222,
+    "instruction": "Which country is a neighbor of Germany?",
+    "options": [
+      {
+        "number": 1,
+        "text": "Hungary"
+      },
+      {
+        "number": 2,
+        "text": "Portugal"
+      },
+      {
+        "number": 3,
+        "text": "Spain"
+      },
+      {
+        "number": 4,
+        "text": "Switzerland",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "order": 223,
+    "instruction": "Which country is a neighbor of Germany?",
+    "options": [
+      {
+        "number": 1,
+        "text": "Romania"
+      },
+      {
+        "number": 2,
+        "text": "Bulgaria"
+      },
+      {
+        "number": 3,
+        "text": "Poland",
+        "correct": true
+      },
+      {
+        "number": 4,
+        "text": "Greece"
+      }
+    ]
+  },
+  {
+    "order": 224,
+    "instruction": "What does the abbreviation EU mean?",
+    "options": [
+      {
+        "number": 1,
+        "text": "European Enterprises"
+      },
+      {
+        "number": 2,
+        "text": "European Union",
+        "correct": true
+      },
+      {
+        "number": 3,
+        "text": "Unified Union"
+      },
+      {
+        "number": 4,
+        "text": "Euro Union"
+      }
+    ]
+  },
+  {
+    "order": 225,
+    "instruction": "In which other country is there a large German-speaking population?",
+    "options": [
+      {
+        "number": 1,
+        "text": "Czech Republic"
+      },
+      {
+        "number": 2,
+        "text": "Norway"
+      },
+      {
+        "number": 3,
+        "text": "Spain"
+      },
+      {
+        "number": 4,
+        "text": "Austria",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "order": 226,
+    "instruction": "Which is the flag of the European Union?",
+    "options": [
+      {
+        "number": 1,
+        "text": "1"
+      },
+      {
+        "number": 2,
+        "text": "2",
+        "correct": true
+      },
+      {
+        "number": 3,
+        "text": "3"
+      },
+      {
+        "number": 4,
+        "text": "4"
+      }
+    ],
+    "image": "assets/images/226.png"
+  },
+  {
+    "order": 227,
+    "instruction": "Which country is a neighbor of Germany?",
+    "options": [
+      {
+        "number": 1,
+        "text": "Finland"
+      },
+      {
+        "number": 2,
+        "text": "Denmark",
+        "correct": true
+      },
+      {
+        "number": 3,
+        "text": "Norway"
+      },
+      {
+        "number": 4,
+        "text": "Sweden"
+      }
+    ]
+  },
+  {
+    "order": 228,
+    "instruction": "How is the accession of the GDR (East Germany) to the Federal Republic of Germany in 1990 generally called?",
+    "options": [
+      {
+        "number": 1,
+        "text": "NATO Eastern Enlargement"
+      },
+      {
+        "number": 2,
+        "text": "EU Eastern Enlargement"
+      },
+      {
+        "number": 3,
+        "text": "German Reunification",
+        "correct": true
+      },
+      {
+        "number": 4,
+        "text": "European Community"
+      }
+    ]
+  },
+  {
+    "order": 229,
+    "instruction": "Which country is a neighbor of Germany?",
+    "options": [
+      {
+        "number": 1,
+        "text": "Spain"
+      },
+      {
+        "number": 2,
+        "text": "Bulgaria"
+      },
+      {
+        "number": 3,
+        "text": "Norway"
+      },
+      {
+        "number": 4,
+        "text": "Luxembourg",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "order": 230,
+    "instruction": "The European Parliament is elected regularly, namely every...",
+    "options": [
+      {
+        "number": 1,
+        "text": "5 years.",
+        "correct": true
+      },
+      {
+        "number": 2,
+        "text": "6 years."
+      },
+      {
+        "number": 3,
+        "text": "7 years."
+      },
+      {
+        "number": 4,
+        "text": "8 years."
+      }
+    ]
+  },
+  {
+    "order": 231,
+    "instruction": "What does the term \"European integration\" mean?",
+    "options": [
+      {
+        "number": 1,
+        "text": "This refers to American immigrants in Europe."
+      },
+      {
+        "number": 2,
+        "text": "The term refers to an immigration ban to Europe."
+      },
+      {
+        "number": 3,
+        "text": "This refers to European emigrants in the USA."
+      },
+      {
+        "number": 4,
+        "text": "The term means the union of European states forming the EU.",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "order": 232,
+    "instruction": "Who is elected in the European Parliament elections?",
+    "options": [
+      {
+        "number": 1,
+        "text": "the European Commission"
+      },
+      {
+        "number": 2,
+        "text": "the countries that are allowed to enter the EU"
+      },
+      {
+        "number": 3,
+        "text": "the members of the European Parliament",
+        "correct": true
+      },
+      {
+        "number": 4,
+        "text": "the European constitution"
+      }
+    ]
+  },
+  {
+    "order": 233,
+    "instruction": "Which country is a neighbor of Germany?",
+    "options": [
+      {
+        "number": 1,
+        "text": "Czech Republic",
+        "correct": true
+      },
+      {
+        "number": 2,
+        "text": "Bulgaria"
+      },
+      {
+        "number": 3,
+        "text": "Greece"
+      },
+      {
+        "number": 4,
+        "text": "Portugal"
+      }
+    ]
+  },
+  {
+    "order": 234,
+    "instruction": "Where is a seat of the European Parliament?",
+    "options": [
+      {
+        "number": 1,
+        "text": "London"
+      },
+      {
+        "number": 2,
+        "text": "Paris"
+      },
+      {
+        "number": 3,
+        "text": "Berlin"
+      },
+      {
+        "number": 4,
+        "text": "Strasbourg",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "order": 235,
+    "instruction": "French President François Mitterrand and German Chancellor Helmut Kohl commemorate together the victims of both World Wars in Verdun. Which goal of the European Union becomes clear during this meeting?",
+    "options": [
+      {
+        "number": 1,
+        "text": "Friendship between England and Germany"
+      },
+      {
+        "number": 2,
+        "text": "Freedom of travel in all EU countries"
+      },
+      {
+        "number": 3,
+        "text": "Peace and security in the countries of the EU",
+        "correct": true
+      },
+      {
+        "number": 4,
+        "text": "unified holidays in the countries of the EU"
+      }
+    ],
+    "image": "assets/images/235.png"
+  },
+  {
+    "order": 236,
+    "instruction": "How many member states does the EU have today?",
+    "options": [
+      {
+        "number": 1,
+        "text": "21"
+      },
+      {
+        "number": 2,
+        "text": "23"
+      },
+      {
+        "number": 3,
+        "text": "25"
+      },
+      {
+        "number": 4,
+        "text": "27",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "order": 237,
+    "instruction": "In 2007, the 50th anniversary of the \"Treaties of Rome\" was celebrated. What was the content of these treaties?",
+    "options": [
+      {
+        "number": 1,
+        "text": "Germany's accession to NATO"
+      },
+      {
+        "number": 2,
+        "text": "Founding of the European Economic Community (EEC)",
+        "correct": true
+      },
+      {
+        "number": 3,
+        "text": "Germany's obligation to pay reparations"
+      },
+      {
+        "number": 4,
+        "text": "Establishment of the Oder-Neisse line as eastern border"
+      }
+    ]
+  },
+  {
+    "order": 238,
+    "instruction": "At which locations does the European Parliament work?",
+    "options": [
+      {
+        "number": 1,
+        "text": "Paris, London, and The Hague"
+      },
+      {
+        "number": 2,
+        "text": "Strasbourg, Luxembourg, and Brussels",
+        "correct": true
+      },
+      {
+        "number": 3,
+        "text": "Rome, Bern, and Vienna"
+      },
+      {
+        "number": 4,
+        "text": "Bonn, Zurich, and Milan"
+      }
+    ]
+  },
+  {
+    "order": 239,
+    "instruction": "Through which treaties did the Federal Republic of Germany join with other states to form the European Economic Community?",
+    "options": [
+      {
+        "number": 1,
+        "text": "through the \"Hamburg Treaties\""
+      },
+      {
+        "number": 2,
+        "text": "through the \"Treaties of Rome\"",
+        "correct": true
+      },
+      {
+        "number": 3,
+        "text": "through the \"Paris Treaties\""
+      },
+      {
+        "number": 4,
+        "text": "through the \"London Treaties\""
+      }
+    ]
+  },
+  {
+    "order": 240,
+    "instruction": "Since when has one paid with the Euro in cash in Germany?",
+    "options": [
+      {
+        "number": 1,
+        "text": "1995"
+      },
+      {
+        "number": 2,
+        "text": "1998"
+      },
+      {
+        "number": 3,
+        "text": "2002",
+        "correct": true
+      },
+      {
+        "number": 4,
+        "text": "2005"
+      }
+    ]
+  },
+  {
+    "order": 241,
+    "instruction": "Ms. Seger is having a child. What must she do to receive parental allowance?",
+    "options": [
+      {
+        "number": 1,
+        "text": "She must write to her health insurance company."
+      },
+      {
+        "number": 2,
+        "text": "She must apply to the parental allowance office.",
+        "correct": true
+      },
+      {
+        "number": 3,
+        "text": "She must do nothing, as she automatically receives parental allowance."
+      },
+      {
+        "number": 4,
+        "text": "She must ask the employment office for permission."
+      }
+    ]
+  },
+  {
+    "order": 242,
+    "instruction": "Who decides whether a child in Germany goes to kindergarten?",
+    "options": [
+      {
+        "number": 1,
+        "text": "the state"
+      },
+      {
+        "number": 2,
+        "text": "the federal states"
+      },
+      {
+        "number": 3,
+        "text": "the parents/legal guardians",
+        "correct": true
+      },
+      {
+        "number": 4,
+        "text": "the schools"
+      }
+    ]
+  },
+  {
+    "order": 243,
+    "instruction": "Maik and Sybille want to hold a demonstration on the street with friends at their German residence. What must they do beforehand?",
+    "options": [
+      {
+        "number": 1,
+        "text": "They must register the demonstration.",
+        "correct": true
+      },
+      {
+        "number": 2,
+        "text": "They must do nothing. In Germany, anyone can demonstrate anywhere at any time."
+      },
+      {
+        "number": 3,
+        "text": "They cannot do anything, because demonstrations are fundamentally forbidden in Germany."
+      },
+      {
+        "number": 4,
+        "text": "Maik and Sybille must found a new association, because only associations are allowed to demonstrate."
+      }
+    ]
+  },
+  {
+    "order": 244,
+    "instruction": "What school qualification normally does one need to begin studying at a university in Germany?",
+    "options": [
+      {
+        "number": 1,
+        "text": "the Abitur (secondary school diploma)",
+        "correct": true
+      },
+      {
+        "number": 2,
+        "text": "a diploma"
+      },
+      {
+        "number": 3,
+        "text": "a power of attorney (Prokura)"
+      },
+      {
+        "number": 4,
+        "text": "a journeyman's examination"
+      }
+    ]
+  },
+  {
+    "order": 245,
+    "instruction": "Who is NOT allowed to live together as a couple in Germany?",
+    "options": [
+      {
+        "number": 1,
+        "text": "Hans (20 years) and Marie (19 years)"
+      },
+      {
+        "number": 2,
+        "text": "Tom (20 years) and Klaus (45 years)"
+      },
+      {
+        "number": 3,
+        "text": "Sofie (35 years) and Lisa (40 years)"
+      },
+      {
+        "number": 4,
+        "text": "Anne (13 years) and Tim (25 years)",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "order": 246,
+    "instruction": "At what age does one become an adult in Germany?",
+    "options": [
+      {
+        "number": 1,
+        "text": "16"
+      },
+      {
+        "number": 2,
+        "text": "18",
+        "correct": true
+      },
+      {
+        "number": 3,
+        "text": "19"
+      },
+      {
+        "number": 4,
+        "text": "21"
+      }
+    ]
+  },
+  {
+    "order": 247,
+    "instruction": "A woman is pregnant. She is specially protected by law shortly before and after the birth of her child. What is this protection called?",
+    "options": [
+      {
+        "number": 1,
+        "text": "Parental leave"
+      },
+      {
+        "number": 2,
+        "text": "Maternity protection",
+        "correct": true
+      },
+      {
+        "number": 3,
+        "text": "Birth preparation"
+      },
+      {
+        "number": 4,
+        "text": "Postpartum period"
+      }
+    ]
+  },
+  {
+    "order": 248,
+    "instruction": "The raising of children in Germany is primarily the task of...",
+    "options": [
+      {
+        "number": 1,
+        "text": "the state."
+      },
+      {
+        "number": 2,
+        "text": "the parents.",
+        "correct": true
+      },
+      {
+        "number": 3,
+        "text": "the grandparents."
+      },
+      {
+        "number": 4,
+        "text": "the schools."
+      }
+    ]
+  },
+  {
+    "order": 249,
+    "instruction": "Who is mainly responsible for raising children in Germany?",
+    "options": [
+      {
+        "number": 1,
+        "text": "the state"
+      },
+      {
+        "number": 2,
+        "text": "the parents",
+        "correct": true
+      },
+      {
+        "number": 3,
+        "text": "the relatives"
+      },
+      {
+        "number": 4,
+        "text": "the schools"
+      }
+    ]
+  },
+  {
+    "order": 250,
+    "instruction": "In Germany, one has the best chances for a well-paid job if one...",
+    "options": [
+      {
+        "number": 1,
+        "text": "is Catholic."
+      },
+      {
+        "number": 2,
+        "text": "is well-educated.",
+        "correct": true
+      },
+      {
+        "number": 3,
+        "text": "is a woman."
+      },
+      {
+        "number": 4,
+        "text": "is a member of a political party."
+      }
+    ]
+  },
+  {
+    "order": 251,
+    "instruction": "If one hits a child in Germany...",
+    "options": [
+      {
+        "number": 1,
+        "text": "it is nobody's business."
+      },
+      {
+        "number": 2,
+        "text": "it is only the family's business."
+      },
+      {
+        "number": 3,
+        "text": "one cannot be punished for it."
+      },
+      {
+        "number": 4,
+        "text": "one can be punished for it.",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "order": 252,
+    "instruction": "In Germany...",
+    "options": [
+      {
+        "number": 1,
+        "text": "one may only be married to one partner at the same time.",
+        "correct": true
+      },
+      {
+        "number": 2,
+        "text": "one can have multiple spouses at the same time."
+      },
+      {
+        "number": 3,
+        "text": "one may not remarry if one was married once."
+      },
+      {
+        "number": 4,
+        "text": "a woman may not remarry if her husband dies."
+      }
+    ]
+  },
+  {
+    "order": 253,
+    "instruction": "Where must you register when you move in Germany?",
+    "options": [
+      {
+        "number": 1,
+        "text": "at the registration office",
+        "correct": true
+      },
+      {
+        "number": 2,
+        "text": "at the registry office"
+      },
+      {
+        "number": 3,
+        "text": "at the administrative office"
+      },
+      {
+        "number": 4,
+        "text": "at the business office"
+      }
+    ]
+  },
+  {
+    "order": 254,
+    "instruction": "In Germany, married couples can get divorced. Usually they must observe the \"separation period.\" What does that mean?",
+    "options": [
+      {
+        "number": 1,
+        "text": "The divorce process takes one year."
+      },
+      {
+        "number": 2,
+        "text": "The spouses are married for one year, then divorce is possible."
+      },
+      {
+        "number": 3,
+        "text": "Visitation rights for children apply for one year."
+      },
+      {
+        "number": 4,
+        "text": "The spouses must live separately for at least one year. After that, divorce is possible.",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "order": 255,
+    "instruction": "For child-rearing problems, parents in Germany can get help from the...",
+    "options": [
+      {
+        "number": 1,
+        "text": "administrative office."
+      },
+      {
+        "number": 2,
+        "text": "school office."
+      },
+      {
+        "number": 3,
+        "text": "youth welfare office.",
+        "correct": true
+      },
+      {
+        "number": 4,
+        "text": "health office."
+      }
+    ]
+  },
+  {
+    "order": 256,
+    "instruction": "A married couple wants to open a restaurant in Germany. What is absolutely required for this?",
+    "options": [
+      {
+        "number": 1,
+        "text": "a permit from the police"
+      },
+      {
+        "number": 2,
+        "text": "approval from a political party"
+      },
+      {
+        "number": 3,
+        "text": "approval from the registration office"
+      },
+      {
+        "number": 4,
+        "text": "a food service license from the competent authority",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "order": 257,
+    "instruction": "An adult woman wants to catch up on the Abitur (secondary school diploma) in Germany. She can do that at...",
+    "options": [
+      {
+        "number": 1,
+        "text": "a university."
+      },
+      {
+        "number": 2,
+        "text": "an evening gymnasium.",
+        "correct": true
+      },
+      {
+        "number": 3,
+        "text": "a main school."
+      },
+      {
+        "number": 4,
+        "text": "a private university."
+      }
+    ]
+  },
+  {
+    "order": 258,
+    "instruction": "What is the youth welfare office allowed to do in Germany?",
+    "options": [
+      {
+        "number": 1,
+        "text": "It decides which school the child attends."
+      },
+      {
+        "number": 2,
+        "text": "It can remove a child from the family if the child is beaten or goes hungry.",
+        "correct": true
+      },
+      {
+        "number": 3,
+        "text": "It pays child allowance to the parents."
+      },
+      {
+        "number": 4,
+        "text": "It checks whether the child attends kindergarten."
+      }
+    ]
+  },
+  {
+    "order": 259,
+    "instruction": "The Career Information Center BIZ at the Federal Employment Agency in Germany helps with...",
+    "options": [
+      {
+        "number": 1,
+        "text": "pension calculation."
+      },
+      {
+        "number": 2,
+        "text": "job training search.",
+        "correct": true
+      },
+      {
+        "number": 3,
+        "text": "tax declarations."
+      },
+      {
+        "number": 4,
+        "text": "health insurance."
+      }
+    ]
+  },
+  {
+    "order": 260,
+    "instruction": "In Germany, a child in school has...",
+    "options": [
+      {
+        "number": 1,
+        "text": "right to unlimited leisure time."
+      },
+      {
+        "number": 2,
+        "text": "freedom of choice for all subjects."
+      },
+      {
+        "number": 3,
+        "text": "claim on school fees."
+      },
+      {
+        "number": 4,
+        "text": "mandatory attendance.",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "order": 261,
+    "instruction": "A man wants to catch up on the Abitur (secondary school diploma) in Germany at age 30. Where can he do that? At...",
+    "options": [
+      {
+        "number": 1,
+        "text": "a university"
+      },
+      {
+        "number": 2,
+        "text": "an evening gymnasium",
+        "correct": true
+      },
+      {
+        "number": 3,
+        "text": "a main school"
+      },
+      {
+        "number": 4,
+        "text": "a private university"
+      }
+    ]
+  },
+  {
+    "order": 262,
+    "instruction": "What does the principle of equal treatment mean in Germany?",
+    "options": [
+      {
+        "number": 1,
+        "text": "No one may be disadvantaged, for example due to a disability.",
+        "correct": true
+      },
+      {
+        "number": 2,
+        "text": "One may disadvantage other people if there are sufficient personal reasons for doing so."
+      },
+      {
+        "number": 3,
+        "text": "No one may take legal action against people if they have been disadvantaged."
+      },
+      {
+        "number": 4,
+        "text": "It is law for everyone to donate money annually to disadvantaged groups."
+      }
+    ]
+  },
+  {
+    "order": 263,
+    "instruction": "In Germany, youths from age 14 are criminally responsible. This means: Youths who are 14 years old or older and violate criminal laws...",
+    "options": [
+      {
+        "number": 1,
+        "text": "are punished.",
+        "correct": true
+      },
+      {
+        "number": 2,
+        "text": "are treated as adults."
+      },
+      {
+        "number": 3,
+        "text": "share the punishment with their parents."
+      },
+      {
+        "number": 4,
+        "text": "are not punished."
+      }
+    ]
+  },
+  {
+    "order": 264,
+    "instruction": "To which celebration do people in Germany wear colorful costumes and masks?",
+    "options": [
+      {
+        "number": 1,
+        "text": "on Rose Monday (Carnival)",
+        "correct": true
+      },
+      {
+        "number": 2,
+        "text": "on May Day"
+      },
+      {
+        "number": 3,
+        "text": "at Oktoberfest"
+      },
+      {
+        "number": 4,
+        "text": "at Whitsun"
+      }
+    ]
+  },
+  {
+    "order": 265,
+    "instruction": "Where must one go first in Germany if one wants to get married?",
+    "options": [
+      {
+        "number": 1,
+        "text": "to the registration office"
+      },
+      {
+        "number": 2,
+        "text": "to the administrative office"
+      },
+      {
+        "number": 3,
+        "text": "to the employment agency"
+      },
+      {
+        "number": 4,
+        "text": "to the registry office",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "order": 266,
+    "instruction": "When does the legal rest period begin in Germany?",
+    "options": [
+      {
+        "number": 1,
+        "text": "when the sun sets"
+      },
+      {
+        "number": 2,
+        "text": "when the neighbors go to sleep"
+      },
+      {
+        "number": 3,
+        "text": "at 0 (midnight)"
+      },
+      {
+        "number": 4,
+        "text": "at 10 PM",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "order": 267,
+    "instruction": "A young woman in Germany, 22 years old, lives with her boyfriend. Her parents don't like it because the boyfriend doesn't suit them. What can the parents do?",
+    "options": [
+      {
+        "number": 1,
+        "text": "They must respect the decision of their adult daughter.",
+        "correct": true
+      },
+      {
+        "number": 2,
+        "text": "They have the right to bring the daughter back to the parental apartment."
+      },
+      {
+        "number": 3,
+        "text": "They can go to the police and file a report against the daughter."
+      },
+      {
+        "number": 4,
+        "text": "They look for another man for the daughter."
+      }
+    ]
+  },
+  {
+    "order": 268,
+    "instruction": "A young woman wants to get her driver's license. She is afraid of the exam because her native language is not German. What is correct?",
+    "options": [
+      {
+        "number": 1,
+        "text": "She must live in Germany for at least ten years before she can get a driver's license."
+      },
+      {
+        "number": 2,
+        "text": "If she doesn't speak German, she is not allowed to have a driver's license."
+      },
+      {
+        "number": 3,
+        "text": "She must get her driver's license in the country where her language is spoken."
+      },
+      {
+        "number": 4,
+        "text": "She can take the theory exam perhaps in her native language. There are more than ten languages to choose from.",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "order": 269,
+    "instruction": "In Germany, children from age three until school enrollment have a right to...",
+    "options": [
+      {
+        "number": 1,
+        "text": "monthly pocket money."
+      },
+      {
+        "number": 2,
+        "text": "a place in a sports club."
+      },
+      {
+        "number": 3,
+        "text": "a kindergarten place.",
+        "correct": true
+      },
+      {
+        "number": 4,
+        "text": "a vacation pass."
+      }
+    ]
+  },
+  {
+    "order": 270,
+    "instruction": "The adult education center (Volkshochschule) in Germany is an institution...",
+    "options": [
+      {
+        "number": 1,
+        "text": "for religious education."
+      },
+      {
+        "number": 2,
+        "text": "only for youths."
+      },
+      {
+        "number": 3,
+        "text": "for continuing education.",
+        "correct": true
+      },
+      {
+        "number": 4,
+        "text": "only for retirees."
+      }
+    ]
+  },
+  {
+    "order": 271,
+    "instruction": "What is a custom at Christmas in Germany?",
+    "options": [
+      {
+        "number": 1,
+        "text": "hiding colorful eggs"
+      },
+      {
+        "number": 2,
+        "text": "decorating a Christmas tree",
+        "correct": true
+      },
+      {
+        "number": 3,
+        "text": "dressing up in masks and costumes"
+      },
+      {
+        "number": 4,
+        "text": "putting pumpkins in front of the door"
+      }
+    ]
+  },
+  {
+    "order": 272,
+    "instruction": "Which lifestyle is not allowed in Germany?",
+    "options": [
+      {
+        "number": 1,
+        "text": "A man and woman are divorced and live with new partners."
+      },
+      {
+        "number": 2,
+        "text": "Two women live together."
+      },
+      {
+        "number": 3,
+        "text": "A single father lives with his two children together."
+      },
+      {
+        "number": 4,
+        "text": "A man is married to two women at the same time.",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "order": 273,
+    "instruction": "For child-rearing problems, you go to... in Germany",
+    "options": [
+      {
+        "number": 1,
+        "text": "the doctor."
+      },
+      {
+        "number": 2,
+        "text": "the health office."
+      },
+      {
+        "number": 3,
+        "text": "the registration office."
+      },
+      {
+        "number": 4,
+        "text": "the youth welfare office.",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "order": 274,
+    "instruction": "You intentionally opened a letter in Germany that is addressed to another person. What did you not respect?",
+    "options": [
+      {
+        "number": 1,
+        "text": "the right to silence"
+      },
+      {
+        "number": 2,
+        "text": "the privacy of mail",
+        "correct": true
+      },
+      {
+        "number": 3,
+        "text": "the obligation to remain silent"
+      },
+      {
+        "number": 4,
+        "text": "freedom of opinion"
+      }
+    ]
+  },
+  {
+    "order": 275,
+    "instruction": "What does one need in Germany for a divorce?",
+    "options": [
+      {
+        "number": 1,
+        "text": "consent of the parents"
+      },
+      {
+        "number": 2,
+        "text": "a certificate from a doctor"
+      },
+      {
+        "number": 3,
+        "text": "consent of the children"
+      },
+      {
+        "number": 4,
+        "text": "support from a lawyer",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "order": 276,
+    "instruction": "What should you do if you are treated poorly by your contact person in a German public authority?",
+    "options": [
+      {
+        "number": 1,
+        "text": "I can do nothing."
+      },
+      {
+        "number": 2,
+        "text": "I must accept this treatment."
+      },
+      {
+        "number": 3,
+        "text": "I threaten the person."
+      },
+      {
+        "number": 4,
+        "text": "I can lodge a complaint with the head of the authority.",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "order": 277,
+    "instruction": "A woman with a two-year-old child applies for a job in Germany. What is an example of discrimination? She does not get the job only because she is...",
+    "options": [
+      {
+        "number": 1,
+        "text": "doesn't speak English."
+      },
+      {
+        "number": 2,
+        "text": "has too high salary expectations."
+      },
+      {
+        "number": 3,
+        "text": "has no experience in this profession."
+      },
+      {
+        "number": 4,
+        "text": "a mother.",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "order": 278,
+    "instruction": "A man in a wheelchair applied for a job as an accountant. What is an example of discrimination? He doesn't get the job only because he...",
+    "options": [
+      {
+        "number": 1,
+        "text": "is in a wheelchair.",
+        "correct": true
+      },
+      {
+        "number": 2,
+        "text": "has no experience."
+      },
+      {
+        "number": 3,
+        "text": "has too high salary expectations."
+      },
+      {
+        "number": 4,
+        "text": "doesn't speak English."
+      }
+    ]
+  },
+  {
+    "order": 279,
+    "instruction": "In most residential buildings in Germany, there is a \"house rules\" (Hausordnung). What is in such \"house rules\"? It lists...",
+    "options": [
+      {
+        "number": 1,
+        "text": "rules for using public transportation."
+      },
+      {
+        "number": 2,
+        "text": "all tenants in the building."
+      },
+      {
+        "number": 3,
+        "text": "rules that all residents must follow.",
+        "correct": true
+      },
+      {
+        "number": 4,
+        "text": "the address of the nearest administrative office."
+      }
+    ]
+  },
+  {
+    "order": 280,
+    "instruction": "If you want to contest an incorrect tax assessment in Germany, you must...",
+    "options": [
+      {
+        "number": 1,
+        "text": "do nothing."
+      },
+      {
+        "number": 2,
+        "text": "throw away the assessment."
+      },
+      {
+        "number": 3,
+        "text": "file an objection.",
+        "correct": true
+      },
+      {
+        "number": 4,
+        "text": "wait until another assessment comes."
+      }
+    ]
+  },
+  {
+    "order": 281,
+    "instruction": "Two friends want to go to a public swimming pool in Germany. Both have dark skin and are therefore not allowed in. Which right is violated in this situation? The right to...",
+    "options": [
+      {
+        "number": 1,
+        "text": "freedom of opinion."
+      },
+      {
+        "number": 2,
+        "text": "equal treatment.",
+        "correct": true
+      },
+      {
+        "number": 3,
+        "text": "freedom of assembly."
+      },
+      {
+        "number": 4,
+        "text": "freedom of movement."
+      }
+    ]
+  },
+  {
+    "order": 282,
+    "instruction": "Which honorary office must German citizens take on if they are asked to do so?",
+    "options": [
+      {
+        "number": 1,
+        "text": "association trainer"
+      },
+      {
+        "number": 2,
+        "text": "election helper",
+        "correct": true
+      },
+      {
+        "number": 3,
+        "text": "library supervisor"
+      },
+      {
+        "number": 4,
+        "text": "teacher"
+      }
+    ]
+  },
+  {
+    "order": 283,
+    "instruction": "What do you do if you receive an incorrect bill from a German authority?",
+    "options": [
+      {
+        "number": 1,
+        "text": "I leave the bill lying."
+      },
+      {
+        "number": 2,
+        "text": "I file an objection with the authority.",
+        "correct": true
+      },
+      {
+        "number": 3,
+        "text": "I send the bill back to the authority."
+      },
+      {
+        "number": 4,
+        "text": "I go to the tax office with the bill."
+      }
+    ]
+  },
+  {
+    "order": 284,
+    "instruction": "What one needs to know for work will change very quickly in the future. What can one do?",
+    "options": [
+      {
+        "number": 1,
+        "text": "It doesn't matter what one learns."
+      },
+      {
+        "number": 2,
+        "text": "Adults must continue to learn even after training.",
+        "correct": true
+      },
+      {
+        "number": 3,
+        "text": "Children learn everything in school that is important for the job. After school, one does not need to learn further."
+      },
+      {
+        "number": 4,
+        "text": "Everyone must stop working earlier because everything is changing."
+      }
+    ]
+  },
+  {
+    "order": 285,
+    "instruction": "Ms. Frost works as a permanently employed staff member in an office. What does she not have to pay from her salary?",
+    "options": [
+      {
+        "number": 1,
+        "text": "income tax"
+      },
+      {
+        "number": 2,
+        "text": "unemployment insurance contributions"
+      },
+      {
+        "number": 3,
+        "text": "pension and health insurance contributions"
+      },
+      {
+        "number": 4,
+        "text": "sales tax",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "order": 286,
+    "instruction": "Which organization in a company helps employees with problems with the employer?",
+    "options": [
+      {
+        "number": 1,
+        "text": "the works council",
+        "correct": true
+      },
+      {
+        "number": 2,
+        "text": "the operations auditor"
+      },
+      {
+        "number": 3,
+        "text": "the operations group"
+      },
+      {
+        "number": 4,
+        "text": "the operations management"
+      }
+    ]
+  },
+  {
+    "order": 287,
+    "instruction": "You want to terminate your employment relationship at a company in Germany. What must you observe?",
+    "options": [
+      {
+        "number": 1,
+        "text": "salary payments"
+      },
+      {
+        "number": 2,
+        "text": "working hours"
+      },
+      {
+        "number": 3,
+        "text": "the notice period",
+        "correct": true
+      },
+      {
+        "number": 4,
+        "text": "insurance obligation"
+      }
+    ]
+  },
+  {
+    "order": 288,
+    "instruction": "What is the basis of Germany's special responsibility for Israel?",
+    "options": [
+      {
+        "number": 1,
+        "text": "from membership in the European Union (EU)"
+      },
+      {
+        "number": 2,
+        "text": "from Nazi crimes against Jews",
+        "correct": true
+      },
+      {
+        "number": 3,
+        "text": "from the Basic Law of the Federal Republic of Germany"
+      },
+      {
+        "number": 4,
+        "text": "from Christian tradition"
+      }
+    ]
+  },
+  {
+    "order": 289,
+    "instruction": "A man with dark skin applies for a job as a waiter in a restaurant in Germany. What is an example of discrimination? He does not get the job only because...",
+    "options": [
+      {
+        "number": 1,
+        "text": "his German language skills are too poor."
+      },
+      {
+        "number": 2,
+        "text": "he has too high salary expectations."
+      },
+      {
+        "number": 3,
+        "text": "he has dark skin.",
+        "correct": true
+      },
+      {
+        "number": 4,
+        "text": "he has no professional experience."
+      }
+    ]
+  },
+  {
+    "order": 290,
+    "instruction": "You have bought a television in Germany. At home, you unpack the television, but it doesn't work. The television is broken. What can you do?",
+    "options": [
+      {
+        "number": 1,
+        "text": "write a complaint"
+      },
+      {
+        "number": 2,
+        "text": "lodge a complaint about the television",
+        "correct": true
+      },
+      {
+        "number": 3,
+        "text": "replace the device without asking"
+      },
+      {
+        "number": 4,
+        "text": "extend the warranty"
+      }
+    ]
+  },
+  {
+    "order": 291,
+    "instruction": "Why must one write down whether one belongs to a church or not in a tax return in Germany? Because...",
+    "options": [
+      {
+        "number": 1,
+        "text": "there is a church tax (Kirchensteuer) that is linked to income and wage tax.",
+        "correct": true
+      },
+      {
+        "number": 2,
+        "text": "it is important for statistics in Germany."
+      },
+      {
+        "number": 3,
+        "text": "one must pay more taxes if one does not belong to a church."
+      },
+      {
+        "number": 4,
+        "text": "the church is responsible for the tax return."
+      }
+    ]
+  },
+  {
+    "order": 292,
+    "instruction": "The people in Germany live according to the principle of religious tolerance. What does that mean?",
+    "options": [
+      {
+        "number": 1,
+        "text": "No mosques are allowed to be built."
+      },
+      {
+        "number": 2,
+        "text": "All people believe in God."
+      },
+      {
+        "number": 3,
+        "text": "Everyone can believe what they want.",
+        "correct": true
+      },
+      {
+        "number": 4,
+        "text": "The state decides what God people should believe in."
+      }
+    ]
+  },
+  {
+    "order": 293,
+    "instruction": "What is a custom at Easter in Germany?",
+    "options": [
+      {
+        "number": 1,
+        "text": "putting pumpkins in front of the door"
+      },
+      {
+        "number": 2,
+        "text": "decorating a Christmas tree"
+      },
+      {
+        "number": 3,
+        "text": "painting eggs",
+        "correct": true
+      },
+      {
+        "number": 4,
+        "text": "shooting fireworks in the air"
+      }
+    ]
+  },
+  {
+    "order": 294,
+    "instruction": "Whitsunday (Pfingsten) is a...",
+    "options": [
+      {
+        "number": 1,
+        "text": "Christian holiday.",
+        "correct": true
+      },
+      {
+        "number": 2,
+        "text": "German memorial day."
+      },
+      {
+        "number": 3,
+        "text": "international day of mourning."
+      },
+      {
+        "number": 4,
+        "text": "Bavarian custom."
+      }
+    ]
+  },
+  {
+    "order": 295,
+    "instruction": "Which religion has shaped European and German culture?",
+    "options": [
+      {
+        "number": 1,
+        "text": "Hinduism"
+      },
+      {
+        "number": 2,
+        "text": "Christianity",
+        "correct": true
+      },
+      {
+        "number": 3,
+        "text": "Buddhism"
+      },
+      {
+        "number": 4,
+        "text": "Islam"
+      }
+    ]
+  },
+  {
+    "order": 296,
+    "instruction": "In Germany, the last four weeks before Christmas are called...",
+    "options": [
+      {
+        "number": 1,
+        "text": "Buß- und Bettag (Day of Repentance and Prayer)."
+      },
+      {
+        "number": 2,
+        "text": "Erntedankfest (Harvest Festival)."
+      },
+      {
+        "number": 3,
+        "text": "Adventszeit (Advent season).",
+        "correct": true
+      },
+      {
+        "number": 4,
+        "text": "Allerheiligen (All Saints' Day)."
+      }
+    ]
+  },
+  {
+    "order": 297,
+    "instruction": "From which country have most migrants come to Germany?",
+    "options": [
+      {
+        "number": 1,
+        "text": "Italy"
+      },
+      {
+        "number": 2,
+        "text": "Poland"
+      },
+      {
+        "number": 3,
+        "text": "Morocco"
+      },
+      {
+        "number": 4,
+        "text": "Turkey",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "order": 298,
+    "instruction": "In the GDR (East Germany), migrants came mainly from...",
+    "options": [
+      {
+        "number": 1,
+        "text": "Vietnam, Poland, Mozambique.",
+        "correct": true
+      },
+      {
+        "number": 2,
+        "text": "France, Romania, Somalia."
+      },
+      {
+        "number": 3,
+        "text": "Chile, Hungary, Zimbabwe."
+      },
+      {
+        "number": 4,
+        "text": "North Korea, Mexico, Egypt."
+      }
+    ]
+  },
+  {
+    "order": 299,
+    "instruction": "Foreign workers recruited by the Federal Republic of Germany in the 1950s and 1960s were called...",
+    "options": [
+      {
+        "number": 1,
+        "text": "black market workers."
+      },
+      {
+        "number": 2,
+        "text": "guest workers (Gastarbeiter).",
+        "correct": true
+      },
+      {
+        "number": 3,
+        "text": "temporary workers."
+      },
+      {
+        "number": 4,
+        "text": "shift workers."
+      }
+    ]
+  },
+  {
+    "order": 300,
+    "instruction": "From which country did the first guest workers come to the Federal Republic of Germany?",
+    "options": [
+      {
+        "number": 1,
+        "text": "Italy",
+        "correct": true
+      },
+      {
+        "number": 2,
+        "text": "Spain"
+      },
+      {
+        "number": 3,
+        "text": "Portugal"
+      },
+      {
+        "number": 4,
+        "text": "Turkey"
+      }
+    ]
+  },
+  {
+    "order": 301,
+    "instruction": "Which coat of arms belongs to the federal state of Berlin?",
+    "options": [
+      {
+        "number": 1,
+        "text": "1"
+      },
+      {
+        "number": 2,
+        "text": "2"
+      },
+      {
+        "number": 3,
+        "text": "3"
+      },
+      {
+        "number": 4,
+        "text": "4",
+        "correct": true
+      }
+    ],
+    "image": "assets/images/301.png"
+  },
+  {
+    "order": 302,
+    "instruction": "Which is a district of Berlin?",
+    "options": [
+      {
+        "number": 1,
+        "text": "Altona"
+      },
+      {
+        "number": 2,
+        "text": "Prignitz"
+      },
+      {
+        "number": 3,
+        "text": "Pankow",
+        "correct": true
+      },
+      {
+        "number": 4,
+        "text": "Mecklenburg Lake District"
+      }
+    ]
+  },
+  {
+    "order": 303,
+    "instruction": "For how many years is the state parliament elected in Berlin?",
+    "options": [
+      {
+        "number": 1,
+        "text": "3"
+      },
+      {
+        "number": 2,
+        "text": "4"
+      },
+      {
+        "number": 3,
+        "text": "5",
+        "correct": true
+      },
+      {
+        "number": 4,
+        "text": "6"
+      }
+    ]
+  },
+  {
+    "order": 304,
+    "instruction": "From what age can one vote in municipal elections (election of the district assembly) in Berlin?",
+    "options": [
+      {
+        "number": 1,
+        "text": "14"
+      },
+      {
+        "number": 2,
+        "text": "16",
+        "correct": true
+      },
+      {
+        "number": 3,
+        "text": "18"
+      },
+      {
+        "number": 4,
+        "text": "20"
+      }
+    ]
+  },
+  {
+    "order": 305,
+    "instruction": "What colors does the state flag of Berlin have?",
+    "options": [
+      {
+        "number": 1,
+        "text": "blue-white-red"
+      },
+      {
+        "number": 2,
+        "text": "white-red",
+        "correct": true
+      },
+      {
+        "number": 3,
+        "text": "green-white-red"
+      },
+      {
+        "number": 4,
+        "text": "black-gold"
+      }
+    ]
+  },
+  {
+    "order": 306,
+    "instruction": "Where can you get information about political topics in Berlin?",
+    "options": [
+      {
+        "number": 1,
+        "text": "at the administrative office of the municipality"
+      },
+      {
+        "number": 2,
+        "text": "at the churches"
+      },
+      {
+        "number": 3,
+        "text": "at the consumer advice center"
+      },
+      {
+        "number": 4,
+        "text": "at the state center for civic education",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "order": 307,
+    "instruction": "Which federal state is a city-state?",
+    "options": [
+      {
+        "number": 1,
+        "text": "Berlin",
+        "correct": true
+      },
+      {
+        "number": 2,
+        "text": "Saarland"
+      },
+      {
+        "number": 3,
+        "text": "Brandenburg"
+      },
+      {
+        "number": 4,
+        "text": "Hesse"
+      }
+    ]
+  },
+  {
+    "order": 308,
+    "instruction": "Which federal state is Berlin?",
+    "options": [
+      {
+        "number": 1,
+        "text": "1"
+      },
+      {
+        "number": 2,
+        "text": "2"
+      },
+      {
+        "number": 3,
+        "text": "3"
+      },
+      {
+        "number": 4,
+        "text": "4",
+        "correct": true
+      }
+    ],
+    "image": "assets/images/308.png"
+  },
+  {
+    "order": 309,
+    "instruction": "What is the title of the head of government of the city-state of Berlin called?",
+    "options": [
+      {
+        "number": 1,
+        "text": "Minister President (Ministerpräsident)"
+      },
+      {
+        "number": 2,
+        "text": "Chief Mayor (Oberbürgermeister)"
+      },
+      {
+        "number": 3,
+        "text": "President of the Senate"
+      },
+      {
+        "number": 4,
+        "text": "Governing Mayor (Regierender Bürgermeister)",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "order": 310,
+    "instruction": "Which senator does Berlin not have?",
+    "options": [
+      {
+        "number": 1,
+        "text": "Finance Senator"
+      },
+      {
+        "number": 2,
+        "text": "Interior Senator"
+      },
+      {
+        "number": 3,
+        "text": "Senator for Foreign Relations",
+        "correct": true
+      },
+      {
+        "number": 4,
+        "text": "Justice Senator"
+      }
+    ]
+  }
+]
